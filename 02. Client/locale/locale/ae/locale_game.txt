@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	áÏíß åĞÇ ÇáÇÓã ÈÇáİÚá.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Êã İÊÍ ÇáÇÓã: %s ÚÑÖ ÇáÇÓã İí ŞÇÆãÉ ÇáÃÓãÇÁ.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	áŞÏ Êã ÊÌåíÒ %s.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	ÍÕáÊ Úáì %s.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	ÇáãÏÉ ÇáãÊÈŞíÉ áÊÔÛíá ÇáÇÓã "%s" åí ÓÇÚÉ æÇÍÏÉ.
+TITLE_SYSTEM_MESSAGE_TIME_END	ÇäÊåÊ ÕáÇÍíÉ %s
+TITLE_SYSTEM_MESSAGE_TRY_LATER	ÇáÑÌÇÁ ÅÚÇÏÉ ÇáãÍÇæáÉ áÇÍŞğÇ.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	áŞÏ ŞãÊ ÈÅÒÇáÉ ÇÓãß ÇáãÌåÒ.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	åĞÇ ÇáÇÓã ÛíÑ ãÊÇÍ ÈÚÏ Ãæ ÇäÊåÊ ãÏÉ ÕáÇÍíÉ.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	áÇ íãßäß ÇáÍÕæá Úáì åĞÇ ÇáÇÓã ÈåĞå ÇáÔåÇÏÉ. íÑÌì ÇáÇØáÇÚ Úáì ÇáÌÏæá.
+TITLE_SYSTEM_OPEN_TITLE_UI	İÊÍ ŞÇÆãÉ ÇáÇÓãÇÁ
+TITLE_SYSTEM_TEXT_TITLE	ÇÓã
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	ÅÙåÇÑ ÇáÇÓã ÇáãÌåÒ
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	ÇáãÊØáÈÇÊ ÇáÇÓÇÓíÉ: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	ÇáæŞÊ ÇáãÊÈŞí:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	ÇáæŞÊ ÇáãÊÈŞí: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	ÏÇÆã
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	ãÏÉ ÕáÇÍíÉ ÇáÇÓã:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	íãßä ÇÓÊÎÏÇãåÇ ÈÔßá ÏÇÆã.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	áã íÚÏ ãä Çáããßä ÇÓÊÎÏÇã åĞÇ ÇáÈäÏ ÈÚÏ ÊÇÑíÎ ÇäÊåÇÁ ãÏÉ ÇáÕáÇÍíÉ.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	åá ÊÑÛÈ İí ÇÓÊÑÏÇÏ ÇáÔåÇÏÉ¿

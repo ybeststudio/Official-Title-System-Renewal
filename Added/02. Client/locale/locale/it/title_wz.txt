@@ -1,0 +1,6 @@
+1	2000	0	Ultimo sopravvissuto	Raggiungi il 1° posto nella Battle Royale.	Conferisce il seguente titolo: Ultimo sopravvissuto	0	0	10800	1
+2	2001	0	Incontrastato	Raggiungi il 1° posto nella Classifica della Zona di Combattimento.	Conferisce il seguente titolo: Incontrastato	0	0	604800	1
+3	2002	0	Guerranfondaio	Raggiungi il 2° posto nella Classifica della Zona di Combattimento.	Conferisce il seguente titolo: Guerranfondaio	0	0	604800	1
+4	2003	0	Macellaio	Raggiungi il 3° posto nella Classifica della Zona di Combattimento.	Conferisce il seguente titolo: Macellaio	0	0	604800	1
+6	3005	0	Conquistatore fiammeggiante	Raggiungi il 1° posto nella Classifica del Rifugio di Meley (gilda).	Sblocca immediatamente questo titolo per il tuo personaggio.	0	0	604800	1
+7	3006	0	Giudice di ghiaccio	Raggiungi il 1° posto nella Classifica della Cripta di Balathor (gilda).	Sblocca immediatamente questo titolo per il tuo personaggio.	0	0	604800	1

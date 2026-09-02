@@ -1,0 +1,13 @@
+1000	1005	0	Szczêœciarz	Wygrane w miesiêcznym losowaniu Metin+.	Natychmiast odblokowuje ten tytu³ dla twojej postaci.	2025-08-08 10:00	0
+1001	3000	0	Metin+	Posiadaj aktywne cz³onkostwo Metin+.	Natychmiast odblokowuje ten tytu³ dla twojej postaci. Czas trwania tytu³u zostanie automatycznie dostosowany do aktualnego statusu twojego cz³onkostwa Metin+.	2025-08-08 10:00	0
+1002	1003	0	Heroiczny	Posiadaj aktywne cz³onkostwo Metin+ za poœrednictwem rangi "Heroiczny" lub wy¿szej.	Natychmiast odblokowuje ten tytu³ dla twojej postaci. Czas trwania tytu³u zostanie automatycznie dostosowany do aktualnego statusu twojego cz³onkostwa Metin+.	2025-08-08 10:00	0
+1003	1003	0	Legendarny	Posiadaj aktywne cz³onkostwo Metin+ za poœrednictwem rangi "Legendarny" lub wy¿szej.	Natychmiast odblokowuje ten tytu³ dla twojej postaci. Czas trwania tytu³u zostanie automatycznie dostosowany do aktualnego statusu twojego cz³onkostwa Metin+.	2025-08-08 10:00	0
+1004	1003	0	Mistyczny	Posiadaj aktywne cz³onkostwo Metin+ za poœrednictwem rangi "Mistyczny".	Natychmiast odblokowuje ten tytu³ dla twojej postaci. Czas trwania tytu³u zostanie automatycznie dostosowany do aktualnego statusu twojego cz³onkostwa Metin+.	2025-08-08 10:00	0
+1005	1000	0	Czciciel S³oñca	Mo¿na wygraæ podczas letniej tomboli 2025.	Natychmiast odblokowuje ten tytu³ dla twojej postaci.	2025-08-01 00:00	0
+1006	1002	0	Gwiazda Polarna	Mo¿na wygraæ podczas zimowej tomboli 2025.	Natychmiast odblokowuje ten tytu³ dla twojej postaci.	2025-12-25 00:00	0
+1007	1003	0	Czempion Nyx	Przenieœ postaæ z transferem postaci na poziomie 1 lub wy¿szym z serwera Yohara Boost Nyx w 2025 roku.	Natychmiast odblokowuje ten tytu³ dla twojej postaci.	2026-02-04 10:00	0
+1008	1003	0	Czempion Chione	Przenieœ postaæ z transferem postaci na poziomie 1 lub wy¿szym z serwera Yohara Boost Chione w 2025 roku.	Natychmiast odblokowuje ten tytu³ dla twojej postaci.	2026-02-04 10:00	0
+1009	1003	0	Czempion Lodos	Przenieœ postaæ z transferem postaci na poziomie 1 lub wy¿szym z serwera Yohara Boost Lodos w 2025 roku.	Natychmiast odblokowuje ten tytu³ dla twojej postaci.	2026-02-04 10:00	0
+1010	1003	0	Czempion Firtina	Przenieœ postaæ z transferem postaci na poziomie 1 lub wy¿szym z serwera Yohara Boost Firtina w 2025 roku.	Natychmiast odblokowuje ten tytu³ dla twojej postaci.	2026-02-04 10:00	0
+1011	1001	0	Wielki Mistrz Okey	Uzyskaj 500 lub wiêcej punktów w jednej rundzie Okey na serwerze TREASURE.	Natychmiast odblokowuje ten tytu³ dla twojej postaci.	2026-04-01 00:00	0
+1012	1004	0	£owca Monet	Zdob¹dŸ ³¹cznie 10 000 dublonów na serwerze TREASURE.	Natychmiast odblokowuje ten tytu³ dla twojej postaci.	2026-04-01 00:00	0

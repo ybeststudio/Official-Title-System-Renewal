@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Ju¿ posiadasz ten tytu³.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Tytu³ odblokowany: %s Zobacz tytu³ w menu tytu³ów.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	%s zosta³ wyposa¿ony.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	Otrzymano %s.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	Pozosta³y czas trwania tytu³u "%s" wynosi jeszcze 1 godzinê.
+TITLE_SYSTEM_MESSAGE_TIME_END	Czas %s up³yn¹³.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Spróbuj ponownie póŸniej.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Wyposa¿ony tytu³ zosta³ zdjêty.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Ten tytu³ nie jest jeszcze dostêpny albo czas trwania up³yn¹³.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Nie mo¿esz otrzymaæ tego tytu³u z tym certyfikatem. SprawdŸ w tabeli.
+TITLE_SYSTEM_OPEN_TITLE_UI	Otwórz menu tytu³ów
+TITLE_SYSTEM_TEXT_TITLE	Tytu³
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Poka¿ wyposa¿ony tytu³
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Warunek: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Pozosta³y czas:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Pozosta³y czas: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Na sta³e
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Czas trwania tytu³u:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Mo¿na u¿ywaæ na sta³e.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Nie mo¿na ju¿ u¿yæ tego przedmiotu po zakoñczeniu czasu jego trwania.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Czy chcesz zrealizowaæ ten certyfikat?

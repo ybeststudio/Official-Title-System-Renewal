@@ -1,0 +1,7 @@
+# Add these keys to locale_interface.txt (do not overwrite the whole file):
+GAME_OPTION_PLAYER_TITLE	Titul
+TITLE_SYSTEM_UI_BUTTON_APPLY	Pouít
+TITLE_SYSTEM_UI_BUTTON_CLEAR	Odebrat
+TITLE_SYSTEM_UI_CURRENT_TITLE	Zvolený titul
+TITLE_SYSTEM_UI_TITLE_LIST	Vechny tituly
+TITLE_SYSTEM_UI_WINDOW_NAME	Titul

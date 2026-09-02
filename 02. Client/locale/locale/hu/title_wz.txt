@@ -1,0 +1,6 @@
+1	2000	0	Utolsó túlélõ	Érj el 1. helyezést a Battle Royaleban.	Az alábbi címet szerzed meg: Utolsó túlélõ	0	0	10800	1
+2	2001	0	Veretlen	Érj el 1. helyezést a Harci övezet heti ranglistáján.	Az alábbi címet szerzed meg: Veretlen	0	0	604800	1
+3	2002	0	Hadhozó	Érj el 2. helyezést a Harci övezet heti ranglistáján.	Az alábbi címet szerzed meg: Hadhozó	0	0	604800	1
+4	2003	0	Baltás	Érj el 3. helyezést a Harci övezet heti ranglistáján.	Az alábbi címet szerzed meg: Baltás	0	0	604800	1
+6	3005	0	Lángok legyõzõje	Érj el 1. helyezést a Meley barlangja (céh) heti ranglistáján.	Azonnal feloldódik ez a cím a karakterednek.	0	0	604800	1
+7	3006	0	Sarki ítélethozó	Érj el 1. helyezést a Balathor kriptája (céh) heti ranglistáján.	Azonnal feloldódik ez a cím a karakterednek.	0	0	604800	1

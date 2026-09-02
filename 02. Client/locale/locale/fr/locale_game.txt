@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Vous possédez déjà ce titre.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Titre activé : %s regardez le titre dans le menu Titre.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	Vous vous êtes équipé de %s.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	%s reçu.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	La durée restante du titre « %s » s'élève à 1 heure.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s a expiré.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Merci de réessayer plus tard.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Vous avez enlevé le titre que vous portiez.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Ce titre n'est plus disponible ou a expiré.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Ce certificat ne vous permet pas d'obtenir ce titre. Merci de vérifier dans le tableau.
+TITLE_SYSTEM_OPEN_TITLE_UI	Ouvrir le menu Titre
+TITLE_SYSTEM_TEXT_TITLE	Titre
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Afficher le titre porté
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Condition : %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Temps restant :
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Temps restant : %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Permanent
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Durée du titre :
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Vous pouvez l'utiliser indéfiniment.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Vous ne pouvez plus utiliser cet objet une fois sa durée écoulée.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Souhaitez-vous valider le certificat ?

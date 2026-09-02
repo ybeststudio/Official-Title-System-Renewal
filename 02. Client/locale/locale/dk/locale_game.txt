@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Du har allerede denne titel.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Titel låst op: %s. Vis titlen i titel menuen.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	%s udstyret.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	%s modtaget.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	%s titlen udløber om 1 time.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s er udløbet.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Prøv venligst igen senere.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Du har afudstyret din titel.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Denne titel er endnu ikke tilgængelig, eller er dens varighed udløbet.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Du kan ikke modtage denne titel med denne certifikat. Tjek venligst tabellen.
+TITLE_SYSTEM_OPEN_TITLE_UI	Åben Titel Menuen
+TITLE_SYSTEM_TEXT_TITLE	Titel
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Vis Udstyret Titel
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Krav: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Resterende tid:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Resterende tid: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Permanent
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Titel Varighed:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Kan bruges permanent.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Denne genstand kan ikke bruges efter den er udløbet.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Ønsker du at indløse certifikatet?

@@ -1,0 +1,6 @@
+1	2000	0	Laatste Overlevende	Bereik de 1ste plaats met Battle Royale.	Geeft de volgende titel: Laatste Overlevende	0	0	10800	1
+2	2001	0	Onverslagen	Bereik de 1ste plaats met de wekelijkse Strijd Zone-ranglijsten.	Geeft de volgende titel: Onverslagen	0	0	604800	1
+3	2002	0	Oorlogbrenger	Bereik de 2de plaats met de wekelijkse Strijd Zone-ranglijsten.	Geeft de volgende titel: Oorlogbrenger	0	0	604800	1
+4	2003	0	Slager	Bereik de 3de plaats met de wekelijkse Strijd Zone-ranglijsten.	Geeft de volgende titel: Slager	0	0	604800	1
+6	3005	0	Vlammende Vernietiger	Bereik de 1ste plaats in de wekelijkse ranglijsten voor Meley's Hol (Gilde).	Ontgrendelt deze titel direct voor jouw karakter.	0	0	604800	1
+7	3006	0	Arctische Arbiter	Bereik de 1ste plaats in de wekelijkse ranglijsten voor Balathor's Crypte (Gilde).	Ontgrendelt deze titel direct voor jouw karakter.	0	0	604800	1

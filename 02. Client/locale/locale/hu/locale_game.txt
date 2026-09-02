@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Már rendelkezel ezzel a címmel.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Feloldott cím: %s. A Cím menüben megtekintheted a címet.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	%s felvéve.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	%s megszerezve.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	A(z) %s cím 1 óra múlva lejár.
+TITLE_SYSTEM_MESSAGE_TIME_END	A(z) %s lejárt.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Kérjük, próbáld újra késõbb.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Elrejtetted a címed.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Ez a cím még nem elérhetõ vagy lejárt az idõtartama.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Ezt a címet nem szerezheted meg ezzel a tanúsítvánnyal. Kérjük, ellenõrizd a táblázatot.
+TITLE_SYSTEM_OPEN_TITLE_UI	Cím menü megnyitása
+TITLE_SYSTEM_TEXT_TITLE	Cím
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Felvett cím mutatása
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Követelmény: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Hátralévõ idõ:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Hátralevõ idõ: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Végleges
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Cím idõtartama:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Örökre használható.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Ez a tárgy nem használható, miután lejárt.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Szeretnéd beváltani a tanúsítványt?

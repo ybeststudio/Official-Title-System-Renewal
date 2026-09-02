@@ -1,0 +1,7 @@
+# Add these keys to locale_interface.txt (do not overwrite the whole file):
+GAME_OPTION_PLAYER_TITLE	ÇÓã
+TITLE_SYSTEM_UI_BUTTON_APPLY	ÊÌåíÒ ÇáÇÓãÇÁ
+TITLE_SYSTEM_UI_BUTTON_CLEAR	ÇÎáÚ
+TITLE_SYSTEM_UI_CURRENT_TITLE	ÚäæÇä ãÌåÒ
+TITLE_SYSTEM_UI_TITLE_LIST	ÌãíÚ ÇáÇÓãÇÁ
+TITLE_SYSTEM_UI_WINDOW_NAME	ÇÓã

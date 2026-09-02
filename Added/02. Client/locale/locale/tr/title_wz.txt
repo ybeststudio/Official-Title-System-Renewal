@@ -1,0 +1,6 @@
+1	2000	0	Son kurtulan	Battle Royale'da 1. sıraya ulaş.	Ünvan ödülü: Son kurtulan	0	0	10800	1
+2	2001	0	Yenilmez	Savaş bölgesi sıralamasında 1. sıraya ulaş.	Ünvan ödülü: Yenilmez	0	0	604800	1
+3	2002	0	Savaş habercisi	Savaş bölgesi sıralamasında 2. sıraya ulaş.	Ünvan ödülü: Savaş habercisi	0	0	604800	1
+4	2003	0	Kasap	Savaş bölgesi sıralamasında 3. sıraya ulaş.	Ünvan ödülü: Kasap	0	0	604800	1
+6	3005	0	Alevli Fatih	Meley'in İni (Lonca) haftalık sıralama listesinde 1. sıraya ulaş.	Bu ünvanın kilidini karakterin için anında açar.	0	0	604800	1
+7	3006	0	Soğukkanlı Hakim	Balathor'un Mahzeni (Lonca) haftalık sıralama listesinde 1. sıraya ulaş.	Bu ünvanın kilidini karakterin için anında açar.	0	0	604800	1

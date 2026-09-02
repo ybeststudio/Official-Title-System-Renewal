@@ -1,0 +1,13 @@
+1000	1005	0	Geluksvogel	Win met de maandelijkse Metin+ Loterij.	Ontgrendelt deze titel direct voor jouw karakter.	2025-08-08 10:00	0
+1001	3000	0	Metin+	Zorg dat je een actief Metin+-lidmaatschap hebt.	Ontgrendelt deze titel direct voor jouw karakter. De duur van de titel wordt automatisch aangepast om te kloppen met de status van jouw Metin+-lidmaatschap.	2025-08-08 10:00	0
+1002	1003	0	Heroïsch	Behaal de rang Heroïsch of hoger tijdens jouw Metin+-lidmaatschap.	Ontgrendelt deze titel direct voor jouw karakter. De duur van de titel wordt automatisch aangepast om te kloppen met de status van jouw Metin+-lidmaatschap.	2025-08-08 10:00	0
+1003	1003	0	Legendarisch	Behaal de rang Legendarisch of hoger tijdens jouw Metin+-lidmaatschap.	Ontgrendelt deze titel direct voor jouw karakter. De duur van de titel wordt automatisch aangepast om te kloppen met de status van jouw Metin+-lidmaatschap.	2025-08-08 10:00	0
+1004	1003	0	Mythisch	Behaal de rang Mythisch tijdens jouw Metin+-lidmaatschap.	Ontgrendelt deze titel direct voor jouw karakter. De duur van de titel wordt automatisch aangepast om te kloppen met de status van jouw Metin+-lidmaatschap.	2025-08-08 10:00	0
+1005	1000	0	Zonaanbidder	Kan gewonnen worden tijdens de Zomer Tombola 2025.	Ontgrendelt deze titel direct voor jouw karakter.	2025-08-01 00:00	0
+1006	1002	0	Noordster	Kan gewonnen worden tijdens de Winter Tombola 2025.	Ontgrendelt deze titel direct voor jouw karakter.	2025-12-25 00:00	0
+1007	1003	0	Nyx Kampioen	Draag een karakter van de 2025 Yohara Boost-server Nyx met een karakteroverdracht level I of hoger.	Ontgrendelt deze titel direct voor jouw karakter.	2026-02-04 10:00	0
+1008	1003	0	Chione Kampioen	Draag een karakter van de 2025 Yohara Boost-server Chione met een karakteroverdracht level I of hoger.	Ontgrendelt deze titel direct voor jouw karakter.	2026-02-04 10:00	0
+1009	1003	0	Lodos Kampioen	Draag een karakter van de 2025 Yohara Boost-server Lodos met een karakteroverdracht level I of hoger.	Ontgrendelt deze titel direct voor jouw karakter.	2026-02-04 10:00	0
+1010	1003	0	Firtina Kampioen	Draag een karakter van de 2025 Yohara Boost-server Firtina met een karakteroverdracht level I of hoger.	Ontgrendelt deze titel direct voor jouw karakter.	2026-02-04 10:00	0
+1011	1001	0	Okey Grootmeester	Verdien 500 punten of meer met een potje Okey op de TREASURE server.	Ontgrendelt deze titel direct voor jouw karakter.	2026-04-01 00:00	0
+1012	1004	0	Muntenjager	Verzamel in totaal 10.000 Dubloenen op de TREASURE server.	Ontgrendelt deze titel direct voor jouw karakter.	2026-04-01 00:00	0

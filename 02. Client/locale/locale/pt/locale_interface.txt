@@ -1,0 +1,7 @@
+# Add these keys to locale_interface.txt (do not overwrite the whole file):
+GAME_OPTION_PLAYER_TITLE	Título
+TITLE_SYSTEM_UI_BUTTON_APPLY	Equipar
+TITLE_SYSTEM_UI_BUTTON_CLEAR	Desequipar
+TITLE_SYSTEM_UI_CURRENT_TITLE	Título equipado
+TITLE_SYSTEM_UI_TITLE_LIST	Todos os títulos
+TITLE_SYSTEM_UI_WINDOW_NAME	Título

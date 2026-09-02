@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Já tens este título.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Título desbloqueado: %s. Podes vê-lo no menu de títulos.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	Equipado: %s.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	Recebeste %s.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	O título %s expira dentro de 1 hora.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s expirou.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Tenta novamente mais tarde.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Desequipaste o teu título.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Este título ainda não está disponível ou a sua duração expirou.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Não podes receber este título com este certificado. Verifica a tabela.
+TITLE_SYSTEM_OPEN_TITLE_UI	Abrir menu de títulos
+TITLE_SYSTEM_TEXT_TITLE	Título
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Mostrar título equipado
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Requisito: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Tempo restante:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Tempo restante: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Permanente
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Duração do título:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Pode ser usado permanentemente.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Este item não pode ser usado após ter expirado.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Queres usar este certificado?

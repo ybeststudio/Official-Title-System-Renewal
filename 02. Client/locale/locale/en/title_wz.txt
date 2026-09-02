@@ -1,0 +1,6 @@
+1	2000	0	Last Survivor	Earn 1st place in the Battle Royale.	Grants the following title: Last Survivor	0	0	10800	1
+2	2001	0	Undefeated	Earn 1st place in the weekly Combat Zone rankings.	Grants the following title: Undefeated	0	0	604800	1
+3	2002	0	Warbringer	Earn 2nd place in the weekly Combat Zone rankings.	Grants the following title: Warbringer	0	0	604800	1
+4	2003	0	Butcher	Earn 3rd place in the weekly Combat Zone rankings.	Grants the following title: Butcher	0	0	604800	1
+6	3005	0	Flaming Vanquisher	Earn 1st place in the weekly rankings for Meley's Lair (Guild).	Immediately unlocks this title for your character.	0	0	604800	1
+7	3006	0	Arctic Arbiter	Earn 1st place in the weekly rankings for Balathor's Crypt (Guild).	Immediately unlocks this title for your character.	0	0	604800	1

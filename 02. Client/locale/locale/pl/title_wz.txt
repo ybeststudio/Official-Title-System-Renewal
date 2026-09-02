@@ -1,0 +1,6 @@
+1	2000	0	Ostatni Ocala³y	Zajmij 1. miejsce w Battle Royale.	Nadaje nastêpuj¹cy tytu³: Ostatni Ocala³y	0	0	10800	1
+2	2001	0	Niepokonany	Zajmij 1. miejsce na liœcie rankingowej Strefy Walki.	Nadaje nastêpuj¹cy tytu³: Niepokonany	0	0	604800	1
+3	2002	0	Zwiastun Wojny	Zajmij 2. miejsce na liœcie rankingowej Strefy Walki.	Nadaje nastêpuj¹cy tytu³: Zwiastun Wojny	0	0	604800	1
+4	2003	0	RzeŸnik	Zajmij 3. miejsce na liœcie rankingowej Strefy Walki.	Nadaje nastêpuj¹cy tytu³: RzeŸnik	0	0	604800	1
+6	3005	0	P³omienny Pogromca	Zajmij 1. miejsce w rankingu tygodniowym dla Schronienia Meley (gildia).	Natychmiast odblokowuje ten tytu³ dla twojej postaci.	0	0	604800	1
+7	3006	0	Bezlitosny Sêdzia	Zajmij 1. miejsce w rankingu tygodniowym dla Krypty Balathora (gildia).	Natychmiast odblokowuje ten tytu³ dla twojej postaci.	0	0	604800	1

@@ -1,0 +1,4 @@
+# Add these rows to item_names.txt:
+57000	Kırmızı sertifika
+57001	Mavi sertifika
+57002	Yeşil sertifika

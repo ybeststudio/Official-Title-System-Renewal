@@ -1,0 +1,6 @@
+1	2000	0	Ultimul Supravieşuitor	Obşine locul 1 la Bãtãlia Roialã	Acordã urmãtorul titlu: Ultimul Supravieşuitor	0	0	10800	1
+2	2001	0	Neînvins	Obşine locul 1 în rang sãptãmânal pentru Zona de Rãzboi.	Acordã urmãtorul titlu: Neînvins	0	0	604800	1
+3	2002	0	Aducãtor de rãzboi	Obşine locul 2 în rang sãptãmânal pentru Zona de Rãzboi.	Acordã urmãtorul titlu: Aducãtor de rãzboi	0	0	604800	1
+4	2003	0	Mãcelar	Obşine locul 3 în rang sãptãmânal pentru Zona de Rãzboi.	Acordã urmãtorul titlu: Mãcelar	0	0	604800	1
+6	3005	0	Învingãtorul Flãcãrilor	Obşine locul 1 în rangul sãptãmânal pentru Adãpostul lui Meley (Breaslã).	Deblocheazã imediat acest titlu pentru caracterul tãu.	0	0	604800	1
+7	3006	0	Arbitru Arctic	Obşine locul 1 în rangul sãptãmânal pentru Cripta lui Balathor (Breaslã).	Deblocheazã imediat acest titlu pentru caracterul tãu.	0	0	604800	1

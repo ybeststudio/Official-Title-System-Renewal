@@ -1,0 +1,6 @@
+1	2000	0	Poslední pøeiví	Získej 1. místo v Královské bitvì.	Garantuje následující titul: Poslední pøeiví	0	0	10800	1
+2	2001	0	Neporaený	Získej 1. místo v týdenním hodnocení Bitevních zón.	Garantuje následující titul: Neporaený	0	0	604800	1
+3	2002	0	Pán války	Získej 2. místo v týdenním hodnocení Bitevních zón.	Garantuje následující titul: Pán války	0	0	604800	1
+4	2003	0	Øezník	Získej 3. místo v týdenním hodnocení Bitevních zón.	Garantuje následující titul: Øezník	0	0	604800	1
+6	3005	0	Ohnivý vítìz	Získej 1. místo v týdenním hodnocení pro Doupì Meley (cechovní).	Okamitì odemkne tento titul pro tvou postavu.	0	0	604800	1
+7	3006	0	Arktický arbitr	Získej 1. místo v týdenním hodnocení pro Balathorova krypta (cechovní).	Okamitì odemkne tento titul pro tvou postavu.	0	0	604800	1

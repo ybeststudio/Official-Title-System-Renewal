@@ -1,0 +1,6 @@
+1	2000	0	Último superviviente	Alcanza el primer puesto en la Battle Royale.	Otorga el siguiente título: Último superviviente	0	0	10800	1
+2	2001	0	Indomable	Alcanza el primer puesto en la clasificación de la zona de combate.	Otorga el siguiente título: Indomable	0	0	604800	1
+3	2002	0	Heraldo de la guerra	Alcanza el segundo puesto en la clasificación de la zona de combate.	Otorga el siguiente título: Heraldo de la guerra	0	0	604800	1
+4	2003	0	Carnicero	Alcanza el tercer puesto en la clasificación de la zona de combate.	Otorga el siguiente título: Carnicero	0	0	604800	1
+6	3005	0	Conquistador llameante	Alcanza el primer puesto en la clasificación semanal de Refugio de Meley (gremio).	Desbloquea este título de inmediato para tu personaje.	0	0	604800	1
+7	3006	0	Juez gélido	Alcanza el primer puesto en la clasificación semanal de Cripta de Balathor (gremio).	Desbloquea este título de inmediato para tu personaje.	0	0	604800	1

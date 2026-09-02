@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Possiedi già questo titolo.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Titolo sbloccato: %s Controlla il titolo nel menù Titolo
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	%s è stato messo in uso.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	Ricevi: %s.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	La durata rimanente del titolo "%s" è di 1 ora.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s è scaduto.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Riprova più tardi.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Hai tolto il titolo che avevi in uso.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Questo titolo non è ancora disponibile o la durata è scaduta.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Non puoi ricevere questo titolo con questo certificato. Controlla la tabella.
+TITLE_SYSTEM_OPEN_TITLE_UI	Aprire il menù Titolo
+TITLE_SYSTEM_TEXT_TITLE	Titolo
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Mostra il titolo in uso
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Requisito: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Tempo rimanente:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Tempo rimanente: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Permanente
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Durata del titolo:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Si può utilizzare in modo permanente.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Questo oggetto non può più essere utilizzato al termine della sua durata.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Vuoi riscattare il certificato?

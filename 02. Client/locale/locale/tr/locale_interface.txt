@@ -1,0 +1,6 @@
+# Add these keys to locale_interface.txt (do not overwrite the whole file):
+TITLE_SYSTEM_UI_BUTTON_APPLY	Ünvan kuşan
+TITLE_SYSTEM_UI_BUTTON_CLEAR	Çıkar
+TITLE_SYSTEM_UI_CURRENT_TITLE	Donatılan ünvan
+TITLE_SYSTEM_UI_TITLE_LIST	Tüm ünvanlar
+TITLE_SYSTEM_UI_WINDOW_NAME	Ünvan

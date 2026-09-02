@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	You already have this title.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Title unlocked: %s. View the title in the title menu.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	%s equipped.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	%s received.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	The %s title expires in 1 hour.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s has expired.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Please try again later.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	You have unequipped your title.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	This title is not available yet or its duration has expired.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	You cannot receive this title with this certificate. Please check the table.
+TITLE_SYSTEM_OPEN_TITLE_UI	Open Title Menu
+TITLE_SYSTEM_TEXT_TITLE	Title
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Show Equipped Title
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Requirement: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Time remaining:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Time remaining: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Permanent
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Title Duration:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Can be used permanently.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	This item cannot be used after it has expired.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Do you want to redeem the certificate?

@@ -1,0 +1,13 @@
+1000	1005	0	tístko	Vyhraj v mìsíèní Tombole Metin+.	Okamitì odemkne tento titul pro tvou postavu.	2025-08-08 10:00	0
+1001	3000	0	Metin+	Mìj aktivní èlenství Metin+.	Okamitì odemkne tento titul pro tvou postavu. Doba trvání titulu je automaticky upravena se stavem tvého èlenství Metin+.	2025-08-08 10:00	0
+1002	1003	0	Hrdinný	Mìj hodnost Hrdinný nebo vyí v èlenství Metin+.	Okamitì odemkne tento titul pro tvou postavu. Doba trvání titulu je automaticky upravena se stavem tvého èlenství Metin+.	2025-08-08 10:00	0
+1003	1003	0	Legendární	Mìj hodnost Legendární nebo vyí v èlenství Metin+.	Okamitì odemkne tento titul pro tvou postavu. Doba trvání titulu je automaticky upravena se stavem tvého èlenství Metin+.	2025-08-08 10:00	0
+1004	1003	0	Mýtický	Mìj hodnost Mýtický v èlenství Metin+.	Okamitì odemkne tento titul pro tvou postavu. Doba trvání titulu je automaticky upravena se stavem tvého èlenství Metin+.	2025-08-08 10:00	0
+1005	1000	0	Uctívaè slunce	Lze jej nosit bìhem letní tomboly 2025.	Okamitì odemkne tento titul pro tvou postavu.	2025-08-01 00:00	0
+1006	1002	0	Severka	Lze ji vyhrát v Tombole 2025.	Okamitì odemkne tento titul pro tvou postavu.	2025-12-25 00:00	0
+1007	1003	0	Nyx ampión	Pøenes postavu s úrovní pøenosu postavy I nebo vyí ze serveru 2025 Yohara Boost Nyx.	Okamitì odemkne tento titul pro tvou postavu.	2026-02-04 10:00	0
+1008	1003	0	Chione ampión	Pøenes postavu s úrovní pøenosu postavy I nebo vyí ze serveru 2025 Yohara Boost Chione.	Okamitì odemkne tento titul pro tvou postavu.	2026-02-04 10:00	0
+1009	1003	0	Lodos ampión	Pøenes postavu s úrovní pøenosu postavy I nebo vyí ze serveru 2025 Yohara Boost Lodos.	Okamitì odemkne tento titul pro tvou postavu.	2026-02-04 10:00	0
+1010	1003	0	Firtina ampión	Pøenes postavu s úrovní pøenosu postavy I nebo vyí ze serveru 2025 Yohara Boost Firtina.	Okamitì odemkne tento titul pro tvou postavu.	2026-02-04 10:00	0
+1011	1001	0	Okey Grandmaster	Získej ve høe Okey více ne 500 bodù na serveru TREASURE.	Okamitì odemkne tento titul pro tvou postavu.	2026-04-01 00:00	0
+1012	1004	0	Lovec mincí	Seber cekem 10 000 Dublonù pøi Lovu pokladù na serveru TREASURE.	Okamitì odemkne tento titul pro tvou postavu.	2026-04-01 00:00	0

@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Je hebt deze titel al.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Title ontgrendeld: %s. Bekijk de titel in het titelmenu.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	%s gedragen.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	%s ontvangen.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	De titel %s vervloopt over één uur.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s is verlopen.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Probeer het later opnieuw a.u.b.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Je hebt je titel gedeselecteerd.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Deze titel is nog niet beschikbaar of diens gebruiksduur is verlopen.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Je kunt deze titel niet ontvangen met dit certificaat. Controleer de tabel alsjeblieft.
+TITLE_SYSTEM_OPEN_TITLE_UI	Titelmenu openen
+TITLE_SYSTEM_TEXT_TITLE	Titel
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Gedragen Titel tonen
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Vereiste: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Resterende tijd:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Resterende tijd: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Permanent
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Titelduur:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Kan permanent gebruikt worden.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Dit item kan niet meer gebruikt worden nadat het verlopen is.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Wil je het certificaat inwisselen?

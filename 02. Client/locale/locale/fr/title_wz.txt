@@ -1,0 +1,6 @@
+1	2000	0	Dernier survivant	Décrochez la 1re place en Battle Royale.	Ceci octroie le titre suivant : Dernier survivant	0	0	10800	1
+2	2001	0	Invaincu	Décrochez la 1re place du classement de la zone de combat.	Ceci octroie le titre suivant : Invaincu	0	0	604800	1
+3	2002	0	Belliciste	Décrochez la 2e place du classement de la zone de combat.	Ceci octroie le titre suivant : Belliciste	0	0	604800	1
+4	2003	0	Boucher	Décrochez la 3e place du classement de la zone de combat.	Ceci octroie le titre suivant : Boucher	0	0	604800	1
+6	3005	0	Vainqueur flamboyant	Décrochez la 1re place du classement hebdomadaire du Repaire de Meley (guilde).	Ceci déverrouille immédiatement ce titre pour votre personnage.	0	0	604800	1
+7	3006	0	Justicier glacial	Décrochez la 1re place du classement hebdomadaire de la Crypte de Balathor (guilde).	Ceci déverrouille immédiatement ce titre pour votre personnage.	0	0	604800	1

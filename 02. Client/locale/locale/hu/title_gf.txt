@@ -1,0 +1,13 @@
+1000	1005	0	Szerencsés	Nyerj a havi Metin+ sorsjátékon!	Azonnal feloldódik ez a cím a karakterednek.	2025-08-08 10:00	0
+1001	3000	0	Metin+	Legyen egy aktív Metin+ tagságod!	Azonnal feloldódik ez a cím a karakterednek. Ennek a címnek az idõtartama automatikusan módosul a Metin+ tagságod státusza szerint.	2025-08-08 10:00	0
+1002	1003	0	Hõsies	A Metin+ tagságodban érj el Hõsies vagy magasabb rangot!	Azonnal feloldódik ez a cím a karakterednek. Ennek a címnek az idõtartama automatikusan módosul a Metin+ tagságod státusza szerint.	2025-08-08 10:00	0
+1003	1003	0	Legendás	A Metin+ tagságodban érj el Legendás vagy magasabb rangot!	Azonnal feloldódik ez a cím a karakterednek. Ennek a címnek az idõtartama automatikusan módosul a Metin+ tagságod státusza szerint.	2025-08-08 10:00	0
+1004	1003	0	Mitikus	A Metin+ tagságodban érd el a Mitikus rangot!	Azonnal feloldódik ez a cím a karakterednek. Ennek a címnek az idõtartama automatikusan módosul a Metin+ tagságod státusza szerint.	2025-08-08 10:00	0
+1005	1000	0	Nap imádó	Megnyerhetõ a 2025-ös nyári tombolán.	Azonnal feloldódik ez a cím a karakterednek.	2025-08-01 00:00	0
+1006	1002	0	Sarkcsillag	Megnyerhetõ a 2025-ös téli tombolán.	Azonnal feloldódik ez a cím a karakterednek.	2025-12-25 00:00	0
+1007	1003	0	Nyx bajnok	Vigyél át egy karaktert a 2025-ös Nyx Yohara bónusz szerverrõl karakter átvitel I. vagy magasabb szinttel.	Azonnal feloldódik ez a cím a karakterednek.	2026-02-04 10:00	0
+1008	1003	0	Chione bajnok	Vigyél át egy karaktert a 2025-ös Chione Yohara bónusz szerverrõl karakter átvitel I. vagy magasabb szinttel.	Azonnal feloldódik ez a cím a karakterednek.	2026-02-04 10:00	0
+1009	1003	0	Lodos bajnok	Vigyél át egy karaktert a 2025-ös Lodos Yohara bónusz szerverrõl karakter átvitel I. vagy magasabb szinttel.	Azonnal feloldódik ez a cím a karakterednek.	2026-02-04 10:00	0
+1010	1003	0	Firtina bajnok	Vigyél át egy karaktert a 2025-ös Firtina Yohara bónusz szerverrõl karakter átvitel I. vagy magasabb szinttel.	Azonnal feloldódik ez a cím a karakterednek.	2026-02-04 10:00	0
+1011	1001	0	Okey nagymester	Érj el 500 vagy több pontot egy okey játékban a TREASURE szerveren.	Azonnal feloldódik ez a cím a karakterednek.	2026-04-01 00:00	0
+1012	1004	0	Érmevadász	Gyûjts össze legalább 10.000 Dublont a TREASURE szerveren.	Azonnal feloldódik ez a cím a karakterednek.	2026-04-01 00:00	0

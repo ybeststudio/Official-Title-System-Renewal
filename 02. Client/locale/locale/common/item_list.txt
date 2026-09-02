@@ -1,0 +1,4 @@
+# Add these lines to locale/common/item_list.txt:
+57000	ETC	icon/item/57000.tga
+57001	ETC	icon/item/57001.tga
+57002	ETC	icon/item/57002.tga

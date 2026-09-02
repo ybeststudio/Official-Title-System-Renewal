@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Du verfügst bereits über diesen Titel.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Titel freigeschaltet: %s Sieh dir den Titel im Titel-Menü an.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	%s wurde ausgerüstet.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	%s erhalten.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	Die verbleibende Laufzeit des Titels "%s" beträgt noch 1 Stunde.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s ist abgelaufen.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Bitte versuche es später erneut.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Du hast deinen ausgerüsteten Titel abgelegt.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Dieser Titel ist noch nicht verfügbar oder die Laufzeit ist abgelaufen.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Diesen Titel kannst du nicht mit dieser Urkunde erhalten. Bitte sieh in der Tabelle nach.
+TITLE_SYSTEM_OPEN_TITLE_UI	Titel-Menü öffnen
+TITLE_SYSTEM_TEXT_TITLE	Titel
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Ausgerüsteten Titel anzeigen
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Voraussetzung: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Verbleibende Zeit:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Verbleibende Zeit: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Permanent
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Titel-Laufzeit:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Kann dauerhaft verwendet werden.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Dieser Gegenstand kann nach Ende seiner Laufzeit nicht mehr verwendet werden.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Möchtest du die Urkunde einlösen?

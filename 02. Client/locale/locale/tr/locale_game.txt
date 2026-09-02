@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Bu ünvana zaten sahipsin.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Ünvanın kilidi açıldı: %s Ünvan menüsünden ünvana göz at.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	%s dnatıldı.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	%s kazandın.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	"%s" ünvanının kalan süresi 1 saattir.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s süresi doldu.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Lütfen daha sonra tekrar dene.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Kuşandığın ünvanı kaldırdın.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Bu ünvan henüz mevcut değil veya süresi dolmuş.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Bu sertifika ile bu ünvanı alamazsın. Lütfen tabloya bak.
+TITLE_SYSTEM_OPEN_TITLE_UI	Ünvan menüsünü aç
+TITLE_SYSTEM_TEXT_TITLE	Ünvan
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Donatılan ünvanı göster
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Gereksinim: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Kalan süre:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Kalan süre: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Devamlı olarak
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Ünvan süresi:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Kalıcı olarak kullanılabilir.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Bu eşya süresi dolduktan sonra kullanılamaz.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Sertifikayı kullanmak istiyor musun?

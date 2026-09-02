@@ -1,0 +1,1521 @@
+ACCEPT	ÏÊ
+ACCE_ABSORB	Áğïññüöçóç ôùí ìğüíïõò
+ACCE_COMBINE	Óõíäõáóìüò
+ACCE_MAIN	Êïñäİëá 1
+ACCE_RESULT	Áğïôİëåóìá
+ACCE_SERVE	Êïñäİëá 2
+ATTACH_METIN_INFO	Èİëåéò íá ÷ñçóéìïğïéŞóåéò İíáí Ëßèï Ğíåıìáôïò;
+ATTACH_METIN_TITLE	×ñŞóç Ëßèïõ Ğíåıìáôïò
+ATTENDANCE_TITLE	Event Êõíçãïı Áñ÷çãşí
+ATTR_67_ADD	ĞñïóèŞêç ìğüíïõò
+ATTR_67_ADD_TITLE	ĞñïóèŞêç ìğüíïõò
+ATTR_67_MATERIAL_SLOT_TITLE	Èñáıóìáôá
+ATTR_67_REGIST_SLOT_TITLE	Áíôéêåßìåíï-óôü÷ïò
+ATTR_67_SUPPORT_SLOT_TITLE	ÓõìğëŞñùóç
+AURA_MAIN	Ñïı÷á áıñáò
+AURA_SUB	Õëéêü
+AUTO_AUTO_ATTACK	Åğßèåóç
+AUTO_AUTO_POSITION	Ößëôñá
+AUTO_AUTO_POTION	Ößëôñá
+AUTO_AUTO_RANGE	Åóôßáóç
+AUTO_AUTO_RESTART	Áíáãİííçóç
+AUTO_AUTO_SKILL	Éêáíüôçôåò
+AUTO_CLEAR	¢äåéáóìá
+AUTO_END	ÓôáìÜôçìá
+AUTO_OFF	Off
+AUTO_ON	On
+AUTO_OPTION_ACCEPT	Åğéâåâáßùóç
+AUTO_OPTION_CLEAR	Ìçäåíéóìüò
+AUTO_OPTION_RANGE	Åğßğåäï
+AUTO_POSITION_SETTING	Ößëôñá
+AUTO_POTION_SETTING	Ößëôñá
+AUTO_RANGE_ACCEPT	Åğéâåâáßùóç
+AUTO_SAVE	ÁğïèŞêåõóç
+AUTO_SETTING	Ñõèìßóåéò
+AUTO_SKILL_SETTING	Éêáíüôçôåò
+AUTO_START	Åêêßíçóç
+AUTO_TITLE	Áõô. êõíŞãé
+BANNER_ATTENDANCE_BUTTON	Event Êõíçãïı Áñ÷çãşí
+BANNER_BATTLE_ROYALE_BUTTON	Battle Royale
+BANNER_BLACK_AND_WHITE_BUTTON	Äéáãùíéóìüò ìáíôşí
+BANNER_CATCHKING_BUTTON	¢ñğáîå ôïí ÂáóéëéÜ
+BANNER_EASTER_BUTTON	ĞÁÓ×Á
+BANNER_FISH_BUTTON	ĞÁÉ×ÍÉÄÉ ØÁÑÏĞÁÆË
+BANNER_FLOWER_BUTTON	ĞÁÉÄÉÁ ÔÙÍ ËÏÕËÏÕÄÉÙÍ
+BANNER_FOOTBALL_BUTTON	ĞÏÄÏÓÖÁÉÑÏ
+BANNER_FORCE_EVENT	Ç÷ş åîïõóßáò
+BANNER_GOLDEN_LAND_BUTTON	Ç ×ñõóŞ Ãç
+BANNER_HALLOWEEN_BUTTON	HALLOWEEN
+BANNER_LUCKY_EVENT	ÔÅÑÁÔÁ
+BANNER_METINSTONE_RAIN_EVENT_BUTTON	Ğõñåôüò Metin
+BANNER_MINIBOSS_BUTTON	ÆùäéáêŞ ÁğïêÜëõøç
+BANNER_MONSTERBACK_BUTTON	Åîáñãıñùóç HP
+BANNER_MYSTERY_BOX_BUTTON	EVENT ËÅÉÁÓ É
+BANNER_MYSTERY_BOX_BUTTON_2	EVENT ËÅÉÁÓ ÉÉ
+BANNER_NEW_XMAS_BUTTON	×ÑÉÓÔÏÕÃÅÍÍÁ
+BANNER_OKEY_BUTTON	Event Okey
+BANNER_OLYMPIC_BUTTON	EVENT ÇÑÙÙÍ
+BANNER_OTHER_WORLD_BUTTON	Ôáîßäé óôïí Áëëüêïóìï
+BANNER_RAMADAN_BUTTON	ÑÁÌÁÆÁÍÉ
+BANNER_ROULETTE_BUTTON	Âùìüò Áßìáôïò
+BANNER_SNOWFLAKE_STICK_EVENT_BUTTON	Event ×éïíïíéöÜäáò
+BANNER_SOUL_BUTTON	EVENT ØÕ×ÙÍ
+BANNER_SPORTS_MATCH_BUTTON	Event ĞñùôáèëŞìáôïò
+BANNER_SUMMER_BUTTON	ÊÁËÏÊÁÉÑÉÍÏ EVENT
+BANNER_TREASURE_HUNT	ÊõíŞãé èçóáõñïı
+BANNER_VALENTINE_BUTTON	ÇÌÅÑÁ ÁÃÉÏÕ ÂÁËÅÍÔÍÏÕ
+BANNER_WORLD_BOSS_BUTTON	Áñ÷çãüò êüóìïõ
+BANNER_YUTNORI_BUTTON	Ãéïõôíüñé
+BATTLE_FIELD_INFO	Æşíç ìÜ÷çò
+BATTLE_FIELD_OPERATION_TIME	Ç óõììåôï÷Ş óôç Æşíç ìÜ÷çò åßíáé äõíáôŞ áğü ôéò %s:00 ùò ôéò %s:00.
+BATTLE_FIELD_OPERATION_TIME_ALL	Ç óõììåôï÷Ş åßíáé äõíáôŞ áíÜ ğÜóá óôéãìŞ.
+BATTLE_FIELD_OPERATION_TIME_END	Ç Æşíç ìÜ÷çò èá åßíáé áíïé÷ôŞ áêüìç %s şñåò.
+BATTLE_FIELD_OPERATION_TIME_NA	ÁõôŞí ôç óôéãìŞ äåí åßíáé äõíáôŞ ç óõììåôï÷Ş.
+BATTLE_FIELD_OPERATION_TIME_OPEN	Ç óõììåôï÷Ş èá åßíáé êáé ğÜëé äõíáôŞ óå %s şñåò ãéá %s şñåò.
+BATTLE_FILED_RANK	Èİóç
+BATTLE_FILED_RANK_EMPIRE	Âáóßëåéï
+BATTLE_FILED_RANK_NAME	¼íïìá
+BATTLE_FILED_RANK_POINT	Ğüíôïé
+BATTLE_ROYALE_APPLICATION_TITLE	Battle Royale
+BATTLE_ROYALE_MAINBUTTON_APPLICATION	Óõììåôï÷Ş
+BATTLE_ROYALE_MAINBUTTON_RANKING	Ëßóôá êáôÜôáîçò
+BATTLE_ROYALE_RETURN_TO_TOWN	ÅğéóôñïöŞ óôï ÷ùñéü
+BELT_INVENTORY_TITLE	ÊáôÜëïãïò Æùíşí
+BNW_GAME_UI_COM	Å÷èñïß
+BNW_RANK_UI_COUNT	Áñéèìüò äùñåşí
+BNW_RANK_UI_NAME	¼íïìá
+BNW_RANK_UI_RANK	ÊáôÜôáîç
+CANCEL	Áêıñùóç
+CHANGE_ATTR_SELECT	ÁëëáãŞ ìğüíïõò
+CHANGE_PASSWORD_CONFIRM	ÅğáíÜëçøç êùäéêïı
+CHANGE_PASSWORD_NEW	Íİï óõíèçìáôéêü
+CHANGE_PASSWORD_OLD	Ğáëéü óõíèçìáôéêü
+CHANGE_PASSWORD_TITLE	ÁëëáãŞ óõíèçìáôéêïı
+CHARACTER_ACTION	Åíİñãåéåò
+CHARACTER_EMOTICON	Óõíáßóèçìá
+CHARACTER_MAIN	×áñáêôŞñáò
+CHARACTER_MUTUAL_ACTION	ÁëëçëåğéäñÜóåéò
+CHARACTER_NORMAL_ACTION	Êáíïíéêİò åíİñãåéåò
+CHARACTER_QUEST	Áğïóôïëİò
+CHARACTER_SKILL	Éêáíüôçôåò
+CHARACTER_SPECTIAL_ACTION	Åéäéêİò åíİñãåéåò
+CHATTING_SETTING_CANCLE	Áêıñùóç
+CHATTING_SETTING_CLEAR	Ìçäåíéóìüò
+CHATTING_SETTING_DEFAULT_TITLE	ÃåíéêÜ
+CHATTING_SETTING_DETAIL	Ñõèìßóåéò óõóôŞìáôïò
+CHATTING_SETTING_DICE	ÆÜñé
+CHATTING_SETTING_DICE_SETTING	Ñõèìßóåéò æáñéïı
+CHATTING_SETTING_EXP	Åìğåéñßá
+CHATTING_SETTING_GOLD	Íüìéóìá
+CHATTING_SETTING_GUILD	Óõíôå÷íßá
+CHATTING_SETTING_ITEM	Áíôéêåßìåíá
+CHATTING_SETTING_LANGUAGE_1	Ãëşóóá 1
+CHATTING_SETTING_LANGUAGE_2	Ãëşóóá 2
+CHATTING_SETTING_LANGUAGE_3	Ãëşóóá 3
+CHATTING_SETTING_LANGUAGE_CUR	Ğáñïıóá ãëşóóá (%s)
+CHATTING_SETTING_LANGUAGE_ONOFF	Ößëôñï
+CHATTING_SETTING_LIST	Ëßóôá
+CHATTING_SETTING_NOTICE	ÌŞíõìá
+CHATTING_SETTING_PARTY	ÏìÜäá
+CHATTING_SETTING_SAVE	ÁğïèŞêåõóç
+CHATTING_SETTING_SHOUT	Óõíïìéëßá êáëİóìáôïò
+CHATTING_SETTING_SYSTEM	Óıóôçìá
+CHATTING_SETTING_TABNAME	Ñõèìßóåéò ïíüìáôïò óõíïìéëßáò
+CHATTING_SETTING_TALKING	ÃåíéêÜ
+CHATTING_SETTING_TITLE	Ñõèìßóåéò óõíïìéëßáò
+CHAT_FILTER	Ößëôñï óõíïìéëßáò
+CHAT_FILTER_DICE	ÆÜñé
+CLOSE	Êëåßóéìï
+COMB_APPEARANCE	ĞáñáëŞğôçò
+COMB_ATTRIBUTE	Ğñùôüôõğï
+COMB_MAIN	ĞáñáëŞğôçò
+COMB_MATERIAL	Ğñùôüôõğï
+COMB_SKILLBOOK_TILE	ÁíôáëëáãŞ âéâëßùí
+COMB_TITLE	
+COMMUNITY_ACCEPT	Áğïäï÷Ş
+COMMUNITY_ADD_FAVORITE_QUESTION	ĞñïóèŞêç óôá áãáğçìİíá;
+COMMUNITY_AUTO_HUNT	×ñçóéìïğïéåß Áõôüìáôï êõíŞãé
+COMMUNITY_CHANNEL_INFO	ÊáíÜëé: %d
+COMMUNITY_CONFIG_FAMILY_MEMBER_LOGIN_ALARM	ĞñïóèŞêç online óõíáãåñìïı ãéá ôïí/ôçí óıæõãï
+COMMUNITY_CONFIG_FRIEND_MEMBER_LOGIN_ALARM	ĞñïóèŞêç online óõíáãåñìïı ãéá ößëïõò
+COMMUNITY_CONFIG_GUILD_MEMBER_LOGIN_ALARM	ĞñïóèŞêç online óõíáãåñìïı ãéá ìİëç óõíôå÷íßáò
+COMMUNITY_CONFIG_INCLUDE_FAMILY_MEMBER	ÌğëïêÜñéóìá êáé áğü óıæõãï
+COMMUNITY_CONFIG_INCLUDE_FRIEND_MEMBER	ÌğëïêÜñéóìá êáé áğü ößëïõò
+COMMUNITY_CONFIG_INCLUDE_GUILD_MEMBER	ÌğëïêÜñéóìá êáé áğü ìİëç óõíôå÷íßáò
+COMMUNITY_CONFIG_INIT	Ìçäåíéóìüò
+COMMUNITY_CONFIG_INIT_QUESTION	Èİëåéò íá ìçäåíßóåéò ôéò ñõèìßóåéò;
+COMMUNITY_CONFIG_LEVEL_INFO_SHOW	ÅğéëïãŞ, ãéá íá ğñïâÜëëåéò ôï åğßğåäü óïõ óå ößëïõò áğü ôç ëßóôá ößëùí.
+COMMUNITY_CONFIG_LOCATION_INFO_SHOW	ÅğéëïãŞ, ãéá íá ğñïâÜëëåéò ôçí ôïğïèåóßá óïõ óå ößëïõò áğü ôç ëßóôá ößëùí.
+COMMUNITY_CONFIG_MAIN_BLOCK	Ñõèìßóåéò ìğëïê
+COMMUNITY_CONFIG_MAIN_LOGIN_ALARM	Ñõèìßóåéò online óõíáãåñìïı
+COMMUNITY_CONFIG_MAIN_MY_INFO_ALARM	Ñõèìßóåéò åéäïğïéŞóåùí ğñïößë
+COMMUNITY_CONFIG_OFF	OFF
+COMMUNITY_CONFIG_ON	ON
+COMMUNITY_CONFIG_QUESTION_SAVE	Èİëåéò íá áğïèçêåıóåéò ôéò áëëáãİò óïõ;
+COMMUNITY_CONFIG_SAVE	ÁğïèŞêåõóç
+COMMUNITY_CONFIG_SUB_BLOCK_EXCHANGE	Áğïêëåéóìüò åìğïñßïõ (1 : 1)
+COMMUNITY_CONFIG_SUB_BLOCK_FRIEND_REQUEST	Áğïêëåéóìüò áéô. öéëßáò
+COMMUNITY_CONFIG_SUB_BLOCK_GUILD_INVITE	Áğïêëåéóìüò ğñïóê. óõíôå÷íßáò
+COMMUNITY_CONFIG_SUB_BLOCK_PARTY_INVITE	Áğïêëåéóìüò ğñïóê. ïìÜäáò
+COMMUNITY_CONFIG_SUB_BLOCK_PARTY_REQUEST	Áğïêëåéóìüò áéô. ïìÜäáò
+COMMUNITY_CONFIG_SUB_BLOCK_WHISPER	Áğïêëåéóìüò øéèıñùí
+COMMUNITY_CONFIG_SUB_LOGIN_ALARM	Online óõíáãåñìïß
+COMMUNITY_CONFIG_SUB_MY_INFO_ALARM	ĞñïâïëŞ ğñïößë
+COMMUNITY_CONNECT	Online
+COMMUNITY_DELETE_FAVORITE_QUESTION	Áöáßñåóç áğü ôá áãáğçìİíá;
+COMMUNITY_DISCONNECT	Offline
+COMMUNITY_DISCONNECT_DIALOG	Èá åìöáíßæåóáé ùò offline óå Üëëïõò áğü áõôŞí ôç ëßóôá.
+COMMUNITY_ERROR	¢ãíùóôï
+COMMUNITY_FAVORITE_BUTTON	Óôá áãáğçìİíá
+COMMUNITY_GUILD_INFO	Ğëçñïöïñßåò Óõíôå÷íßáò
+COMMUNITY_HAS_NO_GUILD	Äåí âñßóêåóáé óå Óõíôå÷íßá áõôŞí ôç óôéãìŞ.
+COMMUNITY_HAS_NO_GUILD_2	Äåò ôéò äéáèİóéìåò Óõíôå÷íßåò.
+COMMUNITY_LEFT_SEAT	AFK
+COMMUNITY_LEFT_SEAT_DIALOG	Èá åìöáíßæåóáé ùò AFK óå Üëëïõò áğü áõôŞí ôç ëßóôá.
+¼óï åßóáé AFK, åíäİ÷åôáé íá ìçí âëİğåéò
+ĞñïóêëŞóåéò ïìÜäáò Üëëùí ğáéêôşí.
+COMMUNITY_MAIN_TAB_CONFIG	Ñıèìéóç
+COMMUNITY_MAIN_TAB_FRIEND	Ößëïò
+COMMUNITY_MAIN_TAB_GUILD	Óõíôå÷íßá
+COMMUNITY_MAIN_TITLE	Êïéíüôçôá
+COMMUNITY_MAP_INFO	Ôïğïèåóßá: %s
+COMMUNITY_MESSENGER_BLOCK_DELETE	Áêıñùóç áğïêëåéóìïı
+COMMUNITY_MESSENGER_FRIEND_DELETE	ÄéáãñáöŞ
+COMMUNITY_MESSENGER_SUB_TAB_BLOCK	Ëßóôá áğïêëåéóìïı
+COMMUNITY_MESSENGER_SUB_TAB_FRIEND	Ëßóôá ößëùí
+COMMUNITY_MESSENGER_SUB_TAB_GUILD_MEMBER	Ìİëç óõíôå÷íßáò
+COMMUNITY_MESSENGER_SUB_TAB_REQUEST	ÁéôŞìáôá öéëßáò
+COMMUNITY_MESSENGER_WHISPER	Øßèõñïò
+COMMUNITY_MOUSE_OVER_IN_STATUS_MESSAGE_BUTTON	ÊÜíå êëéê, ãéá íá ãñÜøåéò İíá ìŞíõìá.
+COMMUNITY_MY_STATUS_MESSAGE	ÌŞíõìá êáôÜóôáóçò
+COMMUNITY_NO_GUILD	×ùñßò Óõíôå÷íßá
+COMMUNITY_PARTY_INVITE	Ğñüóêëçóç ÏìÜäáò
+COMMUNITY_REFUSE	Áğüññéøç
+COMMUNITY_SHOP_OPEN	Ôï Shop ÷ñçóéìïğïéåßôáé
+COMMUNITY_STATUS_MESSAGE_GUILD_TEXT	Åäş ìğïñåßò íá ãñÜøåéò İíá ìŞíõìá.
+COMMUNITY_TOOLTIP_LOVE_POINT	Ğüíôïé áãÜğçò: %d%%
+COSTUME_TITLE	Öïñåóéİò
+COSTUME_WINDOW_TITLE	Öïñåóéİò
+CRAFT_INTEGRATE_BUTTON_CANCEL	Áêıñùóç
+CRAFT_INTEGRATE_BUTTON_RUN	Åêôİëåóç
+CRAFT_INTEGRATE_FAIL_COUNT	Añéèìüò áğïôõ÷éşí
+CRAFT_INTEGRATE_NEED_MATERIAL_TITLE_BAR	Áğáéôïıìåíá õëéêÜ
+CRAFT_INTEGRATE_SUCCESS_COUNT	Áñéèìüò åğéôõ÷éşí
+CRAFT_INTEGRATE_TRY_COUNT	Áñéèìüò ğñïóğáèåéşí
+CREATE_ATT_GRADE	STR
+CREATE_CREATE	Äçìéïıñãçóå
+CREATE_DEX_GRADE	DEX
+CREATE_HP	VIT
+CREATE_LAST_POINT	Âáèìïß
+CREATE_MAN	¢íôñáò
+CREATE_NAME	¼íïìá
+CREATE_NEXT	Åğüìåíï
+CREATE_PREV	Ğßóù
+CREATE_SEX	Öıëï
+CREATE_SHAPE	ÅìöÜíéóç
+CREATE_SP	INT
+CREATE_STAT_RESET	ÅğáíáöïñÜ
+CREATE_WOMAN	Ãõíáßêá
+CUBE_INFO_TITLE	Åã÷åéñßäéï åîåõãåíéóìïı
+CUBE_RENEWAL_BELT_IMPROVE	Áıîçóç Ğéèáí.
+CUBE_RENEWAL_TITLE	Åîåõãåíéóìüò
+CUBE_REQUIRE_MATERIAL	Áğáéôïıìåíá õëéêÜ
+CUBE_REQUIRE_MATERIAL_OR	Ş
+CUBE_TITLE	ĞáñÜèõñï åîåõãåíéóìïı
+CURRENT_POINT	Óõëëåãìİíïé ğüíôïé: %s
+CZ_REWARD_WINDOW_TITLE	Æùäéáêüò Íáüò
+DO_CHANGE_ATTR	ÅöáñìïãŞ
+DO_REFINE	Åîåõãåíéóìüò
+DRAGONSOUL_ACTIVATE	Åíåñãïğïßçóç
+DRAGONSOUL_CHANGE_ATTR_WINDOW_TITLE	ÁëëáãŞ ìğüíïõò ìõèéêşí Äñáêüëéèùí
+DRAGONSOUL_PAGE_BUTTON_1	Áêáôİñãáóôï
+DRAGONSOUL_PAGE_BUTTON_2	Åğåîåñãáóìİíï
+DRAGONSOUL_PAGE_BUTTON_3	ÓğÜíéï
+DRAGONSOUL_PAGE_BUTTON_4	Áñ÷áßï
+DRAGONSOUL_PAGE_BUTTON_5	Èñõëéêü
+DRAGONSOUL_PAGE_BUTTON_6	Ìõèéêü
+DRAGONSOUL_REFINE_WINDOW_TITLE	ĞáñÜèõñï åîåõãåíéóìïı
+DRAGONSOUL_TAP_TITLE_1	ÄñáêïäéáìÜíôé
+DRAGONSOUL_TAP_TITLE_2	Äñáêïñïõìğßíé
+DRAGONSOUL_TAP_TITLE_3	ÄñáêïúÜäçò
+DRAGONSOUL_TAP_TITLE_4	Äñáêïæáöåßñé
+DRAGONSOUL_TAP_TITLE_5	ÄñáêïãñáíÜôçò
+DRAGONSOUL_TAP_TITLE_6	Äñáêüíõ÷áò
+DRAGONSOUL_TAP_TITLE_7	Äñáêïáìİèõóôïò
+DRAGONSOUL_TITLE	Áë÷çìåßá Äñáêüëéèùí
+DRAGON_GATE_AUTO_REINFORCE_TEXT	
+DRAGON_GATE_BASE_NAME	
+DRAGON_GATE_NAME	
+DRAGON_GATE_REINFORCE_TEXT	
+DRAGON_GATE_SIDE_NAME	
+DRAGON_GATE_SIDE_NAME_BY_INDEX	
+DUTCHAUCTION_BUTTON	ĞÜìå
+DUTCHAUCTION_TITLE	SALE
+EASTER_EGG_NOT_HAS_YET	Áõôü ôï áâãü äåí óõëëİ÷èçêå áêüìç.
+EASTER_EGG_RECEIVE_REWARD_BUTTON	ÂñŞêá åíá áâãü!
+EASTER_EGG_TITLE	ĞÜó÷á
+EASTER_EGG_TOTAL_COUNT	Ğáó÷áëéíÜ áâãÜ óõíïëéêÜ:
+EMPIRE_A	Shinsoo
+EMPIRE_ALL	¼ëá
+EMPIRE_B	Chunjo
+EMPIRE_C	Jinno
+EMPIRE_EXIT	¸îïäïò
+EMPIRE_NEXT	Åğüìåíï
+EMPIRE_PREV	Ğßóù
+EMPIRE_SELECT	ÅğéëïãŞ
+END_TIME	Ôñİ÷ïí event
+ENTER_BATTLE_FIELD	Óõììåôï÷Ş
+EQUIPMENT_SLOT_1	Ğñşôç óåëßäá åîïğëéóìïı
+EQUIPMENT_SLOT_2	Äåıôåñç óåëßäá åîïğëéóìïı
+EVENT_ALARM_TITLE	Åğéóêüğçóç event:
+EVENT_NAME_TITLE	¼íïìá
+EVENT_REWARD_CHECK	ĞñïâïëŞ
+EVENT_REWARD_LIST_TITLE	ÁíôáìïéâŞ
+EVENT_REWARD_TITLE	ÁíôáìïéâŞ
+EXCHANGE_ACCEPT	ÏÊ
+EXCHANGE_TITLE	Åìğüñéï
+EXIT_BATTLE_FIELD	Èİëåéò ğñÜãìáôé íá åãêáôáëåßøåéò ôçí Æşíç ìÜ÷çò;
+EXIT_BATTLE_FIELD_ON_DEAD	Èİëåéò íá åãêáôáëåßøåéò ôç Æşíç ìÜ÷çò ìå %d ğüíôïõò;
+EXPIRED_TIME	Ôï event ïëïêëçñşèçêå.
+FISHING_RENEWAL_TITLE	ØÜñåìá
+FLOWER_EVENT_EXCHANGE_BUTTON_TEXT	ÁíôáëëáãŞ
+FLOWER_EVENT_SHOOT_CHRYSANTHEMUM_TEXT	ÂëáóôÜñéá ×ñõóÜíèåìïõ
+FLOWER_EVENT_SHOOT_DAFFODIL_TEXT	ÂëáóôÜñéá ÍÜñêéóóïõ
+FLOWER_EVENT_SHOOT_LILY_TEXT	ÂëáóôÜñéá Êñßíïõ
+FLOWER_EVENT_SHOOT_MAY_BELL_TEXT	ÂëáóôÜñéá Ìéãêİ
+FLOWER_EVENT_SHOOT_SUNFLOWER_TEXT	ÂëáóôÜñéá Çëßáíèïõ
+FLOWER_EVENT_TITLE	ÂëáóôÜñéá óôïí êáôÜëïãï
+FOOTBALL_EVENT_TITLE	Event Ğïäïóöáßñïõ
+FOOTBALL_USE_BUTTON	×ñŞóç
+FORCE_EVENT_FORCE_MENU_TYPE	Ç÷ş
+FORCE_EVENT_FORCE_PLAY_TIME	×ñüíïò ğáé÷íéäéïı
+FORCE_EVENT_TITLE	Ç÷ş åîïõóßáò
+FRAGMENT_COMB_TITLE	Óõíäõáóìüò Âéâëßùí ÉêáíïôŞôùí
+GAMEOPTION_TITLE	Åğéëïãİò
+GAME_EXIT_OBSERVER	Ôİëïò Observer Mode
+GAME_GUILD_WAR_JOIN	Óõììåôï÷Ş óôïí Ğüëåìï Óõíôå÷íéşí
+GAME_HELP	ÂïŞèåéá
+GAME_OPTION_GAME	Åğéëïãİò Ğáé÷íéäéïı
+GAME_OPTION_GAME_HP_BAR	ÌğÜñá HP
+GAME_OPTION_GAME_MONSTER_NAME	Ïíüìáôá ôåñÜôùí
+GAME_OPTION_INIT	Ìçäåíéóìüò
+GAME_OPTION_KEY	×ñŞóç ğëŞêôñùí
+GAME_OPTION_KEYSETTING_CAMERA	ÊÜìåñá
+GAME_OPTION_KEYSETTING_EMOTION	ÓõíáéóèŞìáôá
+GAME_OPTION_KEYSETTING_ETC	¢ëëá
+GAME_OPTION_KEYSETTING_MOUNT	Æşá éğğáóßáò
+GAME_OPTION_LOOTING	Åğéëïãİò ëåßáò
+GAME_OPTION_PLAYER_TITLE	Ôßôëïò
+GAME_OPTION_SHOW	ÅìöÜíéóç
+GAME_OPTION_SYSTEM	Åğéëïãİò ÓõóôŞìáôïò
+GAME_QUEST	Áğïóôïëİò
+GAME_SKILL_UP	Áıîçóç éêáíïôŞôùí
+GAME_STAT_UP	Áıîçóç ÊáôÜóôáóçò
+GEMSHOP_LEFTTIME	Õğïëåéğüìåíïò ÷ñüíïò
+GEMSHOP_TITLA	ÅÌĞÏÑÉÏ GAYA
+GOLDEN_LAND_EVENT_POSSESSION_COUNT	Ğïóüôçôá
+GOLDEN_LAND_EVENT_TITLE	Åêóôñáôåßá Ğñùôáñ÷éêïı
+GOLDEN_LAND_EVENT_TREE_FRUIT_TOOLTIP	Óôïí ¸ìğïñï Êáñáâáíéïı ìğïñåßò íá áíôáëëÜóóåéò ôá ĞéêñÜ Ìïıñá ğïõ âñŞêåò óôá åğßğåäá ìå ×ñõóÜ Ìïıñá.
+GOLDEN_LAND_EVENT_YELLOW_FRUIT_TOOLTIP	Óôïí ¸ìğïñï Êáñáâáíéïı ìğïñåßò íá áíôáëëÜóóåéò ôá ĞéêñÜ Ìïıñá ğïõ âñŞêåò óôá åğßğåäá ìå ×ñõóÜ Ìïıñá.
+GOLDEN_LAND_FIND_GOLDEN_FRUIT_FIND_CARD	ÁğïêÜëõøç ğåäßùí
+GOLDEN_LAND_FIND_GOLDEN_FRUIT_NEED_YELLOW_FRUIT_COUNT	Áğáéôïıìåíá Ìïıñá:
+GOLDEN_LAND_FIND_GOLDEN_FRUIT_REWARD	ÁíôáìïéâŞ
+GOLDEN_LAND_FIND_GOLDEN_FRUIT_TITLE	Ç ÁíáæŞôçóç ×ñõóşí Ìïıñùí
+GOLDEN_LAND_FIND_GOLDEN_FRUIT_TOOLTIP_RESET	Ìçäåíéóìüò
+GOLDEN_LAND_FIND_GOLDEN_FRUIT_YELLOW_FRUIT_COUNT	×ñõóÜ Ìïıñá ğïõ İ÷åéò:
+GOLDEN_LAND_STAGE_EXIT_BUTTON	¸îïäïò
+GOLDEN_LAND_STAGE_EXIT_QUESTION	Èİëåéò óô' áëŞèåéá íá ôá ğáñáôŞóåéò; Èá ôçëåìåôáöåñèåßò ğßóù óôç ×ñõóŞ Ãç.
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_1	Åğßğåäï 1
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_2	Åğßğåäï 2
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_3	Åğßğåäï 3
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_4	Åğßğåäï 4 (¼áóç)
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_5	Åğßğåäï 5
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_6	Åğßğåäï 6
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_7	Åğßğåäï 7
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_8	Åğßğåäï 8 (¼áóç)
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_9	Åğßğåäï 9
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_10	Åğßğåäï 10
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_11	Åğßğåäï 11
+GOLDEN_LAND_STAGE_NUMBER_TOOLTIP_12	Åğßğåäï 12 (¼áóç)
+GOLDEN_LAND_STAGE_REMAIN_TIME	%d ëåğôÜ
+GOLDEN_LAND_STAGE_REMAIN_TIME_1M	ÊÜôù áğü 1 ëåğôü
+GRADE	Âáèìßäá
+GRADE_SELECT	Âáèìßäá
+GRAPHICONOFF_DROP_ITEM_APPLY	ÅöáñìïãŞ
+GRAPHICONOFF_DROP_ITEM_LEVEL	Ñßøç áíôéêåéìİíùí
+GRAPHICONOFF_DROP_ITEM_LEVEL1	1
+GRAPHICONOFF_DROP_ITEM_LEVEL1_TOOLTIP	ĞñïâïëŞ åöİ & ïíüìáôïò
+GRAPHICONOFF_DROP_ITEM_LEVEL2	2
+GRAPHICONOFF_DROP_ITEM_LEVEL2_TOOLTIP	Áğüêñõøç åöİ
+GRAPHICONOFF_DROP_ITEM_LEVEL3	3
+GRAPHICONOFF_DROP_ITEM_LEVEL3_TOOLTIP	Áğüêñõøç åöİ & ïíüìáôïò
+GRAPHICONOFF_DROP_ITEM_LEVEL4	4
+GRAPHICONOFF_DROP_ITEM_LEVEL4_TOOLTIP	Áğüêñõøç áíôéêåéìİíùí & ¼íïìá ìå Üããéãìá ğïíôéêéïı
+GRAPHICONOFF_DROP_ITEM_LEVEL5	5
+GRAPHICONOFF_DROP_ITEM_LEVEL5_TOOLTIP	Íá ìçí ğñïâÜëëïíôáé áíôéêåßìåíá & ïíüìáôá
+GRAPHICONOFF_EFFECT_APPLY	ÅöáñìïãŞ
+GRAPHICONOFF_EFFECT_LEVEL	Åöİ
+GRAPHICONOFF_EFFECT_LEVEL1	1
+GRAPHICONOFF_EFFECT_LEVEL1_TOOLTIP	ĞñïâïëŞ üëùí
+GRAPHICONOFF_EFFECT_LEVEL2	2
+GRAPHICONOFF_EFFECT_LEVEL2_TOOLTIP	Ìüíï äéêÜ óïõ êé åöİ ôåñÜôùí
+GRAPHICONOFF_EFFECT_LEVEL3	3
+GRAPHICONOFF_EFFECT_LEVEL3_TOOLTIP	Ìüíï äéêÜ óïõ êé åöİ Üëëùí ğáéêôşí
+GRAPHICONOFF_EFFECT_LEVEL4	4
+GRAPHICONOFF_EFFECT_LEVEL4_TOOLTIP	ĞñïâïëŞ ìüíï äéêşí óïõ
+GRAPHICONOFF_EFFECT_LEVEL5	5
+GRAPHICONOFF_EFFECT_LEVEL5_TOOLTIP	Íá ìçí ğñïâÜëëåôáé êáíİíá
+GRAPHICONOFF_NPC_NAME_STATUS	¼íïìá NPC
+GRAPHICONOFF_NPC_NAME_STATUS_OFF	Off
+GRAPHICONOFF_NPC_NAME_STATUS_OFF_TOOLTIP	Áğüêñõøç ïíüìáôïò NPC
+GRAPHICONOFF_NPC_NAME_STATUS_ON	On
+GRAPHICONOFF_NPC_NAME_STATUS_ON_TOOLTIP	ĞñïâïëŞ ïíüìáôïò NPC
+GRAPHICONOFF_PET_STATUS	Êáôïéêßäéá
+GRAPHICONOFF_PET_STATUS_OFF	Off
+GRAPHICONOFF_PET_STATUS_OFF_TOOLTIP	Áğüêñõøç êáôïéêéäßïõ
+GRAPHICONOFF_PET_STATUS_ON	On
+GRAPHICONOFF_PET_STATUS_ON_TOOLTIP	ĞñïâïëŞ êáôïéêéäßïõ
+GRAPHICONOFF_PRIVATE_SHOP_APPLY	ÅöáñìïãŞ
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL	ÉäéùôéêÜ êáôáóôŞìáôá
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL1	1
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL1_TOOLTIP	ĞñïâïëŞ üëùí
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL2	2
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL2_TOOLTIP	ĞñïâïëŞ üëùí óå ìåãÜëç ğåñéöİñåéá
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL3	3
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL3_TOOLTIP	ĞñïâïëŞ üëùí óå ìåóáßá ğåñéöİñåéá
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL4	4
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL4_TOOLTIP	ĞñïâïëŞ üëùí óå êïíôéíŞ ğåñéöİñåéá
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL5	5
+GRAPHICONOFF_PRIVATE_SHOP_LEVEL5_TOOLTIP	ĞñïâïëŞ üëùí óå Üìåóç ğåñéöİñåéá
+GUILDWINDOW_BASE_BUFF	Ğñïíüìéá óõíôå÷íßáò
+GUILD_ATTENDANCE_LOCA1	Ğñşôç óõììåôï÷Ş: 1x ÌåôÜëëéï ÈÜññïõò
+GUILD_ATTENDANCE_LOCA2	10 Ş ğåñéóóüôåñåò: 1x ÌåôÜëëéï ÈÜññïõò
+GUILD_ATTENDANCE_LOCA3	20 Ş ğåñéóóüôåñåò: 2x ÌåôÜëëéï ÈÜññïõò
+GUILD_ATTENDANCE_LOCA4	30 Ş ğåñéóóüôåñåò: 4x ÌåôÜëëéï ÈÜññïõò
+GUILD_ATTENDANCE_LOCA5	40 Ş ğåñéóóüôåñåò: 6x ÌåôÜëëéï ÈÜññïõò
+GUILD_ATTENDANCE_LOCA6	50 Ş ğåñéóóüôåñåò: 8x ÌåôÜëëéï ÈÜññïõò
+GUILD_ATTENDANCE_LOCA7	60 Ş ğåñéóóüôåñåò: 10x ÌåôÜëëéï ÈÜññïõò
+GUILD_ATTENDANCE_LOCA8	70 Ş ğåñéóóüôåñåò: 12x ÌåôÜëëéï ÈÜññïõò
+GUILD_ATTENDANCE_LOCA9	Åêêßíçóç óõììåôï÷Şò: ÊáèçìåñéíÜ óôéò 5:00
+GUILD_ATTENDANCE_TITLE	ÁíôáìïéâŞ óõììåôï÷Şò
+GUILD_BANKINFO_CLOSE	Êëåßóéìï
+GUILD_BANKINFO_NAME	Ìİëïò
+GUILD_BANKINFO_TITLE	Áñ÷åßï ÁğïèŞêçò óõíôå÷íßáò
+GUILD_BANKINFO_TYPE	Áíôéêåßì./Íüìéóìá
+GUILD_BANKINFO_USETYPE	ĞñïóöïñÜ
+GUILD_BANK_CLOSE	Êëåßóéìï
+GUILD_BANK_INFO	Óåë. áğïè.:
+GUILD_BASEINFO_BANK	ÁğïèŞêç óõíôå÷íßáò
+GUILD_BASEINFO_BANKLASTOUT	Ôåë. áíÜë. áíô.
+GUILD_BASEINFO_BUILDING	Êôßñéï óõíôå÷íßáò
+GUILD_BASEINFO_BUILDING_LEVEL	Åğßğåäï áíÜ êôßñéï
+GUILD_BASEINFO_FACILITY	Âåëôßùóç
+GUILD_BASEINFO_FACTORY	ÓéäåñÜò óõíôå÷íßáò
+GUILD_BASEINFO_GUILDLAND	Ãç óõíôå÷íßáò
+GUILD_BASEINFO_LANDSCAPE	¢ëëá
+GUILD_BASEINFO_LOCALE	Ôïğïèåóßá
+GUILD_BASEINFO_MONEY	ÊáôÜóôáóç ëïãáñéáóìïı
+GUILD_BASEINFO_MONEYBANKINFO	Ğëçñïöïñßåò ôñÜğåæáò óõíôå÷íßáò
+GUILD_BASEINFO_MONEYLASTOUT	Ôåëåõôáßá áíÜëçøç
+GUILD_BASEINFO_POWER	Âùìüò ôçò Äıíáìçò
+GUILD_BASEINFO_SMEITER	Áë÷çìéóôŞò óõíôå÷íßáò
+GUILD_BASEINFO_SMELTER	Åîåõãåíéóìüò
+GUILD_BASEINFO_SPECIAL	Âùìïß
+GUILD_BASEINFO_TITLE	Óôïé÷åßá ãçò
+GUILD_BASENAME	Âáóéêü ¼íïìá
+GUILD_BATTLE_AREA_MOVE_BUTTON	ÔçëåìåôáöïñÜ
+GUILD_BATTLE_RANK_BOARD	Ëßóôá êáôÜôáîçò
+GUILD_BATTLE_RANK_BOARD_MOB_KILL	MOB\nKills
+GUILD_BATTLE_RANK_BOARD_NAME	¼íïìá
+GUILD_BATTLE_RANK_BOARD_PC_DEAD	ÈÜíáôïé\nğáéêôşí
+GUILD_BATTLE_RANK_BOARD_PC_KILL	Kills\nğáéêôşí
+GUILD_BATTLE_RANK_BOARD_RANK	Èİóç
+GUILD_BATTLE_RANK_BOARD_TEAM	ÏìÜäá
+GUILD_BATTLE_RESULT_BOARD	Áğïôåëİóìáôá ÌÜ÷çò óõíôå÷íßáò
+GUILD_BATTLE_RESULT_BOARD_EXIT	¸îïäïò
+GUILD_BATTLE_RESULT_BOARD_RANKING	ÊáôÜôáîç
+GUILD_BATTLE_STATUS_BOARD	Ëßóôá êáôÜôáîçò
+GUILD_BOARD_ID	¼íïìá
+GUILD_BOARD_REFRESH	Áíáíİùóç
+GUILD_BOARD_TEXT	ÌŞíõìá
+GUILD_BUILDING_CATEGORY_TITLE	Êáôçãïñßåò Êôéñßùí
+GUILD_BUILDING_CHANGE	ÁëëáãŞ
+GUILD_BUILDING_CHANGE_DELETE	ÄéáãñáöŞ
+GUILD_BUILDING_CHANGE_FIX	Áíáìüñöùóç óõíôå÷íßáò
+GUILD_BUILDING_CHANGE_LIST	Ëßóôá áíôéêåéìİíùí óõíôå÷íßáò
+GUILD_BUILDING_DIRECTION	Êáôåıèõíóç
+GUILD_BUILDING_DONATE_NORMAL_BUTTON_TEXT	ÅéóéôŞñéï ïéêïäüìçóçò
+GUILD_BUILDING_DONATE_NORMAL_TITLE	Êáíïíéêü
+GUILD_BUILDING_DONATE_PLUS_BUTTON_TEXT	Åéä.åéó.ïéêïä.
+GUILD_BUILDING_DONATE_PLUS_TITLE	Óõí
+GUILD_BUILDING_DONATE_WINDOW_TITLE	Åğİíäõóç åìğåéñßáò êôéñßïõ (%s)
+GUILD_BUILDING_FIX	Áíáìüñöùóç
+GUILD_BUILDING_GRADE	Âáèìüò
+GUILD_BUILDING_INFO	Ğëçñïöïñßåò Êôéñßùí êáé Êüóôïõò
+GUILD_BUILDING_LANDSCAPE_WINDOW_TITLE	Ôïğßï
+GUILD_BUILDING_LIST_TITLE	Ëßóôá Êôéñßùí
+GUILD_BUILDING_LOG	Êïıôóïõñï
+GUILD_BUILDING_NAME	¼íïìá Êôéñßïõ
+GUILD_BUILDING_OPERATE	Ëåéôïõñãßá
+GUILD_BUILDING_PLY	ÊáğëáìÜò
+GUILD_BUILDING_POSITION	Èİóç
+GUILD_BUILDING_PREVIEW	Ğñïåğéóêüğçóç
+GUILD_BUILDING_PRICE	ÔéìŞ
+GUILD_BUILDING_REFRESH	Áíáíİùóç
+GUILD_BUILDING_SPECIAL_BUFF_LEVEL_1	Èİóç 1
+GUILD_BUILDING_SPECIAL_BUFF_LEVEL_2	Èİóç 2
+GUILD_BUILDING_SPECIAL_BUFF_LEVEL_3	Èİóç 3
+GUILD_BUILDING_SPECIAL_BUFF_MATERIAL_TITLE	Áğáéôïıìåíá õëéêÜ
+GUILD_BUILDING_SPECIAL_BUFF_NAME_TITLE	Buff
+GUILD_BUILDING_SPECIAL_BUFF_REROLL_TITLE	Êüóôïò áíôáëëáãŞò
+GUILD_BUILDING_SPECIAL_BUFF_TIME_TITLE	×ñüíïò
+GUILD_BUILDING_SPECIAL_BUFF_TITLE	Åğßğåäï Âùìïı
+GUILD_BUILDING_SPECIAL_BUFF_UI_TITLE	Ìğüíïõò âùìşí
+GUILD_BUILDING_SPECIAL_SUMMON_LEVEL_1	Èİóç 1
+GUILD_BUILDING_SPECIAL_SUMMON_LEVEL_2	Èİóç 2
+GUILD_BUILDING_SPECIAL_SUMMON_LEVEL_3	Èİóç 3
+GUILD_BUILDING_SPECIAL_SUMMON_LEVEL_TITLE	Åğßğåäï
+GUILD_BUILDING_SPECIAL_SUMMON_MATERIAL_TITLE	Áğáéôïıìåíá õëéêÜ
+GUILD_BUILDING_SPECIAL_SUMMON_MOB_NAME_TITLE	¼íïìá
+GUILD_BUILDING_SPECIAL_SUMMON_REROLL_TITLE	Êüóôïò áíôáëëáãŞò
+GUILD_BUILDING_SPECIAL_SUMMON_TITLE	Åğßğåäï Âùìïı
+GUILD_BUILDING_SPECIAL_SUMMON_UI_TITLE	Âùìüò åğßêëçóçò
+GUILD_BUILDING_STONE	Ëßèïò
+GUILD_BUILDING_TITLE	Êôßñéï Óõíôå÷íßáò
+GUILD_BUILDING_USE_COST_LOG_UI_TITLE	Åğéóêüğçóç êüóôïõò ÷ñŞóçò
+GUILD_CRYSTAL	Êñıóôáëëïò
+GUILD_DELETE_PLAYER_EXP_BUTTON_TEXT	Áöáßñåóç Åìğåéñßáò
+GUILD_DELETE_PLAYER_EXP_DIALOG_CANCEL_BUTTON_TEXT	Áêıñùóç
+GUILD_DELETE_PLAYER_EXP_DIALOG_CONFIRM_BUTTON_TEXT	Åğéâåâáßùóç
+GUILD_DELETE_PLAYER_EXP_DIALOG_MAX_BUTTON_TEXT	ÌÅÃ.
+GUILD_DELETE_PLAYER_EXP_DIALOG_TITLE	×ñçóéìïğïéçìİíç åìğåéñßá
+GUILD_DEPOSIT	ÊáôÜèåóç
+GUILD_DONATE_BUTTON_OVER_TEXT	Ôõ÷áßï Áíôéêåßìåíï
+GUILD_DONATE_COUNT	Äéáèİóéìåò äùñåİò: %d/%d
+GUILD_DONATE_GET_MEDAL_OF_HONOR	%d
+GUILD_DONATE_GUILD_EXP	ÅÌĞ óõíôå÷íßáò
+GUILD_DONATE_HIGH_MATERIAL	ÕøçëŞ äùñåÜ
+GUILD_DONATE_MEDAL_OF_HONOR	ÌåôÜëëéï èÜññïõò
+GUILD_DONATE_MIDDLE_MATERIAL	Ìåóáßá äùñåÜ
+GUILD_DONATE_MY_MEDAL_OF_HONOR	Ôá ÌåôÜëëéá èÜññïõò ìïõ
+GUILD_DONATE_NORMAL_MATERIAL	120.000 Yang
+GUILD_DONATE_TAB_HIGH	ÕøçëŞ äùñåÜ
+GUILD_DONATE_TAB_MIDDLE	Ìåóáßá äùñåÜ
+GUILD_DONATE_TAB_NORMAL	ÌéêñŞ äùñåÜ
+GUILD_DONATE_TITLE	ÅÌĞ äùñåşí
+GUILD_DRAGONLAIR_RANKING	Ëßóôá êáôÜôáîçò
+GUILD_DRAGONLAIR_RANKING_COUNT	Èİóç
+GUILD_DRAGONLAIR_RANKING_MEMBER	Ìİëç
+GUILD_DRAGONLAIR_RANKING_NAME	Óõíôå÷íßá
+GUILD_DRAGONLAIR_RANKING_TIME	×ñüíïò
+GUILD_DROP_RESOURCE1	åäş
+GUILD_DROP_RESOURCE2	Ğİôáãìá ğñşôçò ıëçò
+GUILD_GEM	ĞåôñÜäé
+GUILD_GRADE_CHANGE_GRADE_NAME	Íİï üíïìá Âáèìïı
+GUILD_GRADE_NUM	Âáèìüò
+GUILD_GRADE_PERMISSION_BANK	Ìğïñåß íá ÷ñçóéìïğïéåß ôçí ôñÜğåæá êáé ôçí áğïèŞêç óõíôå÷íßáò.
+GUILD_GRADE_PERMISSION_DELETE	Áöáßñåóç áğü ôç óõíôå÷íßá
+GUILD_GRADE_PERMISSION_JOIN	Ìğïñåß íá äİ÷åôáé íİá ìİëç óôç óõíôå÷íßá.
+GUILD_GRADE_PERMISSION_NOTICE	Ìğïñåß íá áöŞíåé óçìåéşóåéò óõíôå÷íßáò.
+GUILD_GRADE_PERMISSION_SKILL	Éêáíüôçôåò óõíôå÷íßáò
+GUILD_GRADE_PERMISSION_WAR	Ìğïñåß íá åğéëİãåé ìİëç, ğïõ èá óõììåôİ÷ïõí ùò ğïëåìéóôİò.
+GUILD_GRADE_RANK	Âáèìüò
+GUILD_GRADE_WRITE	ÃñÜøéìï
+GUILD_INFO	Ğëçñïöïñßåò Óõíôå÷íßáò
+GUILD_INFO_CUR_EXP	Åìğåéñßá
+GUILD_INFO_DECALRE_WAR	ÊŞñõîç Ğïëİìïõ
+GUILD_INFO_ENEMY_GUILD	Å÷èñéêŞ Óõíôå÷íßá
+GUILD_INFO_ENEMY_GUILD_EMPTY	Êåíü
+GUILD_INFO_LEVEL	Åğßğåäï Óõíôå÷íßáò
+GUILD_INFO_MARK	ÓŞìá Óõíôå÷íßáò
+GUILD_INFO_MASTER	Çãİôçò
+GUILD_INFO_MASTER_VALUE	Çãİôçò
+GUILD_INFO_MEMBER_AVG_LEVEL	Ìİóï Åğßğåäï
+GUILD_INFO_MEMBER_NUM	Áñéèìüò ìåëşí
+GUILD_INFO_NAME	¼íïìá Óõíôå÷íßáò
+GUILD_INFO_NAME_VALUE	Áõôü åßíáé ¼íïìá Óõíôå÷íßáò
+GUILD_INFO_OFFER_EXP	Åğİíäõóå
+GUILD_INFO_REST_EXP	Áğáéôïıìåíç Åìğ.
+GUILD_INFO_UPLOAD_MARK	Upload ÓŞìá
+GUILD_INFO_UPLOAD_SYMBOL	Upload Óçìáßá
+GUILD_MARK	ÓŞìá Óõíôå÷íßáò
+GUILD_MASTER_CHANGE_TITLEBAR	ĞáñÜäïóç áñ÷çãßáò óõíôå÷íßáò
+GUILD_MEMBER_JOB	ÊëÜóç
+GUILD_MEMBER_KNIGHT	ĞïëåìéóôŞò
+GUILD_MEMBER_LEVEL	Åğßğåäï
+GUILD_MEMBER_NAME	¼íïìá
+GUILD_MEMBER_OUT_TITLEBAR	Áöáßñåóç ìİëïõò
+GUILD_MEMBER_PACE_ATTENDANCE	Óõììåôï÷Ş ({0}/{1})
+GUILD_MEMBER_RANK	Âáèìüò
+GUILD_MEMBER_SPECIFIC_GRAVITY	Åğåíä.
+GUILD_METIN_STONE	Ëßèïò Metin
+GUILD_MINENAL	ÌåôÜëëåõìá
+GUILD_MONEY	Yang
+GUILD_NAME	Óõíôå÷íßá
+GUILD_RAGONLAIR_RANKING_BOARD_COLUMN_CLEAR_TIME	×ñüíïò
+GUILD_RAGONLAIR_RANKING_BOARD_COLUMN_GUILD_NAME	¼íïìá óõíôå÷íßáò
+GUILD_RAGONLAIR_RANKING_BOARD_COLUMN_MEMBER_COUNT	Ìİëç
+GUILD_RAGONLAIR_RANKING_BOARD_COLUMN_RANK	ÊáôÜôáîç
+GUILD_RAGONLAIR_RANKING_BOARD_COLUMN_UPDATE_TIME	×ñüíïò ïëïêëŞñùóçò
+GUILD_RESOURCE_INFO	Ğëçñïöïñßåò Ğüñùí
+GUILD_SKILLPAGE_LADDER	Ğüíôïé êáôÜôáîçò
+GUILD_SKILLPAGE_RANK	Èİóç
+GUILD_SKILL_ACTIVE	Åíåñãçôéêü
+GUILD_SKIlL_HEAL_GSP	ÁíáğëŞñùóç
+GUILD_SKILL_PASSIVE	Ğáèçôéêü
+GUILD_SKILL_POWER	Åíİñãåéá
+GUILD_SKILL_STATE	Éêáíüôçôá Óõíôå÷íßáò
+GUILD_SYMBOL	Óçìáßá Óõíôå÷íßáò
+GUILD_WAR_ACCEPT	Áğïäï÷Ş êŞñõîçò Ğïëİìïõ Óõíôå÷íéşí
+GUILD_WAR_ALLSCORE	¼ëåò ïé ìÜ÷åò
+GUILD_WAR_BATTLE_TYPE	Ôığïò ÌÜ÷çò
+GUILD_WAR_CTF	Óçìáßá
+GUILD_WAR_DECLARE	ÊŞñõîå Ğüëåìï Óõíôå÷íéşí
+GUILD_WAR_ENEMY	Å÷èñïß
+GUILD_WAR_GAINSCORE	Ğüíôïé
+GUILD_WAR_GAINSCORE_FIFTY	50
+GUILD_WAR_GAINSCORE_HUNDRED	100
+GUILD_WAR_GAINSCORE_THIRTY	30
+GUILD_WAR_GAMETIME	×ñüíïò ìÜ÷çò
+GUILD_WAR_GAMETIME_SIXTY	60 ëåğ.
+GUILD_WAR_GAMETIME_TEN	10 ëåğ.
+GUILD_WAR_GAMETIME_THIRTY	30 ëåğ.
+GUILD_WAR_JOINMEMBER	Ìİëç
+GUILD_WAR_JOINMEMBER_COUNT	Ìİëç
+GUILD_WAR_JOINMEMBER_FIFTEEN	15
+GUILD_WAR_JOINMEMBER_FIVE	5
+GUILD_WAR_JOINMEMBER_TEN	10
+GUILD_WAR_NORMAL	ÓôÜäéï
+GUILD_WAR_REPORT	Åğéóêüğçóç ğïëİìïõ
+GUILD_WAR_REPORTLIST	Åğéóêüğçóç (ÌÜ÷åò: Ì, Íßêåò: Í, ¹ôôåò: Ç, Éóïğáëßåò: É)
+GUILD_WAR_SCORE	Åğéóêüğçóç ğïëİìïõ
+GUILD_WAR_SKILL	Éêáíüôçôåò óõíôå÷íßáò
+GUILD_WAR_TYPE_DEFENSE	ÌÜ÷ç áóğßäùí
+GUILD_WAR_TYPE_DIE	ÌÜ÷ç áñİíáò
+GUILD_WAR_TYPE_FLAG	ÌÜ÷ç óçìáßáò
+GUILD_WAR_TYPE_NORMAL	ÌÜ÷ç ğåäßïõ
+GUILD_WAR_TYPE_TIGER	ÌÜ÷ç êáôáóôñïöŞò
+GUILD_WAR_TYPE_TIME	Åğßèåóç ÷ñüíïõ
+GUILD_WAR_WARP	Áñİíá
+GUILD_WAR_WIN	Ãıñïé
+GUILD_WAR_WIN_FIVE	5
+GUILD_WAR_WIN_ONE	1
+GUILD_WAR_WIN_THREE	3
+GUILD_WATER	Íåñü
+GUILD_WATER_STONE	Íåñüëéèïò
+GUILD_WITHDRAW	ĞÜñå
+HELP_ATTACK	Åíåñãïğïéåß ôçí ìåìïíùìİíç åğßèåóç ìå İíá êëéê.
+HELP_ATTACK_KEY	Åğßèåóç: áñéóôåñü êïõìğß ğïíôéêéïı Ş ğëŞêôñï space
+HELP_AUTO_ATTACK	Åíåñãïğïéåß ôçí áõôüìáôç åğßèåóç ìå İíá êëéê.
+HELP_CAMERA	ÊÜìåñá
+HELP_CHANGE_PK_MODE	ÁëëáãŞ ôñüğïõ åğßèåóçò: áëëáãŞ ñıèìéóçò áñéóôåñïı ğïíôéêéïı
+HELP_CHARACTER_BUTTON1	(ĞáñÜèõñï ×áñáêô., ĞáñÜèõñï Êáôáë.,
+HELP_CHARACTER_BUTTON2	Ëßóôá ößëùí êáé Ñõèìßóåéò)
+HELP_CHAT	Ãéá íá ìéëŞóåéò ìå ôçí áíôßóôïé÷ç ïìÜäá, ãñÜøå ìğñïóôÜ áğü ôï êåßìåíü óïõ: !(Óõíïìéëßá ìå ğåñéâÜëëïí), #(Óõíïìéëßá ïìÜäáò) oder %(Óõíïìéëßá óõíôå÷íßáò).
+HELP_CLICK_OTHER_PLAYER	Ìå äåîß êëéê óå Üëëïí ğáßêôç ìğïñåßò íá êÜíåéò åìğüñéï, íá éäñıóåéò ïìÜäåò êáé íá ğñïêáëİóåéò êÜğïéïí óå ìïíïìá÷ßá.
+HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON	Èİóç êÜìåñáò: ìåóáßï êïõìğß ğïíôéêéïı
+HELP_CONTROL_CAMERA_BY_RIGHTBUTTON	ÁëëáãŞ èİóçò êÜìåñáò: äåîß Ş áñéóôåñü êïõìğß ğïíôéêéïı
+HELP_EMOTINO	Ìå ôïõò óõíäõáóìïıò ğëŞêôñùí <CTRL> + <1~9> ìğïñåßò íá äåß÷íåéò ôá óõíáéóèŞìáôÜ óïõ.
+HELP_EXP	Åìğåéñßá
+HELP_FURY	Ingame Item Shop
+HELP_GUILD_WINDOW	¢íïéãìá ğáñáèıñïõ: Alt + G
+HELP_HELP	ĞñïâïëŞ âïŞèåéáò: Ç
+HELP_HELP_KEY	Óôç âïŞèåéá åìöáíßæïíôáé ïé óõíŞèåéò ñõèìßóåéò.
+HELP_HP	HP
+HELP_KEYSETTING	Óôéò ñõèìßóåéò ğáé÷íéäéïı ìğïñåßò íá êáèïñßóåéò äéêïıò óïõ óõíäõáóìïıò ğëŞêôñùí.
+HELP_MESSENGER_WINDOW	¢íïéãìá ëßóôáò ößëùí: Alt + M
+HELP_MINIMAP	ĞñïâÜëëåé ôïí ìßíé ÷Üñôç.
+HELP_MINIMAP_QUEST	Óôïí Ìéêñü êáé ÌåãÜëï ÷Üñôç, ôá óçìåßá áğïóôïëşí èá áíáâïóâŞíïõí.
+HELP_MOUSE_LEFT	Ëåéôïõñãßá áñéóôåñïı êïõìğéïı óôï ğïíôßêé
+HELP_MOUSE_RIGHT	Ëåéôïõñãßá äåîéïı êïõìğéïı óôï ğïíôßêé
+HELP_MOVE_KEY	Êßíçóç: W, A, S, D Ş âİëç
+HELP_OFF_QUESTSCROLL	Ìå <CTRL> + Q ìğïñåßò íá ğñïâÜëëåéò êáé íá êñıâåéò ôïõò ğáğıñïõò áğïóôïëşí.
+HELP_OPEN_CHARACTER	¢íïéãìá ğáñáèıñïõ ÷áñáêôŞñá: C
+HELP_OPEN_CHAT	¢íïéãìá ğáñáèıñïõ chat: Enter
+HELP_OPEN_INVENTORY	¢íïéãìá ğáñáèıñïõ êáôáëüãïõ: I
+HELP_OPEN_LOG	ÅìöÜíéóç Chatlog: L
+HELP_OPEN_MINIMAP	¢íïéãìá ìéêñïı ÷Üñôç: Shift + M
+HELP_OPEN_QUEST	¢íïéãìá ğáñáèıñïõ áğïóôïëşí: Í
+HELP_OPEN_SKILL	¢íïéãìá ğáñáèıñïõ éêáíïôŞôùí: V
+HELP_OPEN_WHISPER	¢íïéãìá ğáñáèıñïõ Øéèıñùí: Shift + Enter
+HELP_OPEN_ZONEMAP	¢íïéãìá ìåãÜëïõ ÷Üñôç: M
+HELP_PICK_ITEM	ÓõëëïãŞ áíôéêåéìİíùí: Z, ~ Ş áñéóôåñü êëéê
+HELP_QUICKSLOT	Ğåäßá ÃñŞãïñçò Ğñüóâáóçò
+HELP_SCREEN_CAPTURE	ÁğïèŞêåõóç óôéãìéüôõğïõ: PrtSc (ôüğïò áğïèŞêåõóçò: ÖÜêåëïò «Metin2\screenshot»)
+HELP_SERVER	Óïõ ğñïâÜëëåé ôïí óİñâåñ êáé ôï êáíÜëé.
+HELP_SHOW_ALL_NAME	ÅìöÜíéóç ïíïìÜôùí: Alt
+HELP_SKILL	Áğü åäş ìğïñåßò íá ÷ñçóéìïğïéŞóåéò ôçí éêáíüôçôÜ óïõ ìå äåîß êëéê.
+HELP_SP	SP
+HELP_SYSTEM_BUTTON	ÊïõìğéÜ ÓõóôŞìáôïò
+ICECREAM_EVENT_TITL	Êáëïêáéñéíü event
+INVENTORY_PAGE_BUTTON_TOOLTIP_1	1ïò ÊáôÜëïãïò
+INVENTORY_PAGE_BUTTON_TOOLTIP_2	2ïò ÊáôÜëïãïò
+INVENTORY_PAGE_BUTTON_TOOLTIP_3	3ïò ÊáôÜëïãïò
+INVENTORY_PAGE_BUTTON_TOOLTIP_4	4ïò ÊáôÜëïãïò
+INVENTORY_TITLE	ÊáôÜëïãïò
+ITEM_MALL	Item Shop
+KEYCHANGE_ACTION_WINDOW	Åíİñãåéåò
+KEYCHANGE_ATTACK	Åğßèåóç
+KEYCHANGE_AUTORUN	Áõôüì. ğåñğÜô.
+KEYCHANGE_AUTO_WINDOW	Áõôüìáôï êõíŞãé
+KEYCHANGE_BASEACTION	Âáóéêİò ñõèìßóåéò
+KEYCHANGE_CAM_DOWN1	ÊÜìåñá (êÜôù)
+KEYCHANGE_CAM_DOWN2	ÊÜìåñá (êÜôù)
+KEYCHANGE_CAM_LEFT1	ÊÜìåñá (áñéóôåñÜ)
+KEYCHANGE_CAM_LEFT2	ÊÜìåñá (áñéóôåñÜ)
+KEYCHANGE_CAM_RIGHT1	ÊÜìåñá (äåîéÜ)
+KEYCHANGE_CAM_RIGHT2	ÊÜìåñá (äåîéÜ)
+KEYCHANGE_CAM_UP1	ÊÜìåñá (ğÜíù)
+KEYCHANGE_CAM_UP2	ÊÜìåñá (ğÜíù)
+KEYCHANGE_CAM_ZOOM_IN1	ÊÜìåñá (æïõì +)
+KEYCHANGE_CAM_ZOOM_IN2	ÊÜìåñá (Æïõì +)
+KEYCHANGE_CAM_ZOOM_OUT1	ÊÜìåñá (æïõì -)
+KEYCHANGE_CAM_ZOOM_OUT2	ÊÜìåñá (Æïõì -)
+KEYCHANGE_CANCLE	ÄéáêïğŞ
+KEYCHANGE_CHAT_WINDOW	Ğñùôüêïëëï óõíïì.
+KEYCHANGE_CLEAR	Êáíïíéêü
+KEYCHANGE_DDS_WINDOW	ÓÄË
+KEYCHANGE_DOWN1	Ğßóù
+KEYCHANGE_DOWN2	Ğßóù
+KEYCHANGE_DRAGON_GATE	
+KEYCHANGE_DSS1	ÄË [Ïõñáíüò]
+KEYCHANGE_DSS2	ÄË [Ãç]
+KEYCHANGE_EMOTION1	Óõíáßóèçìá (ëığç)
+KEYCHANGE_EMOTION2	Óõíáßóèçìá (Yang)
+KEYCHANGE_EMOTION3	Óõíáßóèçìá (ìïõóéêŞ)
+KEYCHANGE_EMOTION4	Óõíáßóèçìá (êáñäéÜ)
+KEYCHANGE_EMOTION5	Óõíáßóèçìá (êáñäïıëá)
+KEYCHANGE_EMOTION6	Óõíáßóèçìá (âüìâá)
+KEYCHANGE_EMOTION7	Óõíáßóèçìá (éäİá)
+KEYCHANGE_EMOTION8	Óõíáßóèçìá (êáôáéãßäá)
+KEYCHANGE_EMOTION9	Óõíáßóèçìá (óõãíşìç)
+KEYCHANGE_ESC	Óıóôçìá
+KEYCHANGE_GUILD_WINDOW	Óõíôå÷íßá
+KEYCHANGE_HELP_WINDOW	ÂïŞèåéá
+KEYCHANGE_IMPOSSIBLE_CHANGE	Äåí åğéôñİğïíôáé åäş: [CTRL], [ALT], [SHIFT]!
+KEYCHANGE_INGAMEEVENT	EVENT
+KEYCHANGE_INTERFACE	ĞáñÜèõñï
+KEYCHANGE_INVENTORY_WINDOW	ÊáôÜëïãïò
+KEYCHANGE_KEY_SETTING	Ñõèìßóåéò ğëçêôñïëïãßïõ
+KEYCHANGE_LEFT1	ÁñéóôåñÜ
+KEYCHANGE_LEFT2	ÁñéóôåñÜ
+KEYCHANGE_MERCENARY	Ìéóèïöüñïò
+KEYCHANGE_MESSENGER_WINDOW	Ößëïé
+KEYCHANGE_MINIMAP_MINER	Ìéêñüò ÷Üñôçò (-)
+KEYCHANGE_MINIMAP_PLUS	Ìéêñüò ÷Üñôçò (+)
+KEYCHANGE_MINIMAP_WINDOW	ÌåãÜëïò ×Üñôçò
+KEYCHANGE_MONSTER_CARD_WINDOW	ÊÜñôá ôåñÜôùí
+KEYCHANGE_NEXT_TARGET	Åğüìåíïò óôü÷ïò
+KEYCHANGE_PARTY_MATCH_WINDOW	ÁíáæŞôçóç ïìÜäáò
+KEYCHANGE_PASSIVE_ATTR1	Ìğüíïõò êåéìçëßùí (Ïõñáíüò)
+KEYCHANGE_PASSIVE_ATTR2	Ìğüíïõò êåéìçëßùí (Ãç)
+KEYCHANGE_PET_WINDOW	Êáôïéêßäéï
+KEYCHANGE_QUEST_SCROLL_ONOFF	ĞñïâïëŞ áğïóôïëşí
+KEYCHANGE_QUEST_WINDOW	Áğïóôïëİò
+KEYCHANGE_QUICKSLOT1	Åğßğåäï 1
+KEYCHANGE_QUICKSLOT2	Åğßğåäï 2
+KEYCHANGE_QUICKSLOT3	Åğßğåäï 3
+KEYCHANGE_QUICKSLOT4	Åğßğåäï 4
+KEYCHANGE_RIDE	Éğğáóßá
+KEYCHANGE_RIDE_BYE	Äéşîéìï áëüãïõ
+KEYCHANGE_RIDE_HORSE	Éğğáóßá
+KEYCHANGE_RIDE_PEED	ÔÜéóìá áëüãïõ
+KEYCHANGE_RIGHT1	ÄåîéÜ
+KEYCHANGE_RIGHT2	ÄåîéÜ
+KEYCHANGE_ROOT1	ÌÜæåìá
+KEYCHANGE_ROOT2	ÌÜæåìá
+KEYCHANGE_SAVE	ÁğïèŞêåõóç
+KEYCHANGE_SCREENSHOT	Óôéãìéüôõğï
+KEYCHANGE_SHOW_NAME	ĞñïâïëŞ ïíïìÜôùí
+KEYCHANGE_SHOW_NAME_BAR	ĞñïâïëŞ ïíïìÜôùí
+KEYCHANGE_SKILL_WINDOW	Éêáíüôçôåò
+KEYCHANGE_SLOT1	Èİóç 1 (ğáñïıóá óåëßäá Quickslot)
+KEYCHANGE_SLOT2	Èİóç 2 (ğáñïıóá óåëßäá Quickslot)
+KEYCHANGE_SLOT3	Èİóç 3 (ğáñïıóá óåëßäá Quickslot)
+KEYCHANGE_SLOT4	Èİóç 4 (ğáñïıóá óåëßäá Quickslot)
+KEYCHANGE_SLOT5	Èİóç 5 (ğáñïıóá óåëßäá Quickslot)
+KEYCHANGE_SLOT6	Èİóç 6 (ğáñïıóá óåëßäá Quickslot)
+KEYCHANGE_SLOT7	Èİóç 7 (ğáñïıóá óåëßäá Quickslot)
+KEYCHANGE_SLOT8	Èİóç 8 (ğáñïıóá óåëßäá Quickslot)
+KEYCHANGE_SLOT_KET	ÃñŞãïñç ğñüóâáóç
+KEYCHANGE_STATUS_WINDOW	×áñáêôŞñáò
+KEYCHANGE_SUNGMAHEE_GATE_ACHIEV	Ôñüğáéï
+KEYCHANGE_UP1	ÌğñïóôÜ
+KEYCHANGE_UP2	ÌğñïóôÜ
+KEYCHANGE_USE_PRISM	Öáêüò äéïñáôéêüôçôáò
+LANGUAGE_AE	ÁñáâéêÜ
+LANGUAGE_CZ	Ôóå÷éêÜ
+LANGUAGE_DE	ÃåñìáíéêÜ
+LANGUAGE_DK	ÄáíéêÜ
+LANGUAGE_EN	ÁããëéêÜ
+LANGUAGE_ES	ÉóğáíéêÜ
+LANGUAGE_FR	ÃáëëéêÜ
+LANGUAGE_GR	ÅëëçíéêÜ
+LANGUAGE_HU	ÏõããñéêÜ
+LANGUAGE_IT	ÉôáëéêÜ
+LANGUAGE_NL	ÏëëáíäéêÜ
+LANGUAGE_NONE	Êáìßá åğéëïãŞ
+LANGUAGE_PL	ĞïëùíéêÜ
+LANGUAGE_PT	ĞïñôïãáëéêÜ
+LANGUAGE_RO	ÑïõìáíéêÜ
+LANGUAGE_RU	ÑùóéêÜ
+LANGUAGE_TR	ÔïõñêéêÜ
+LEFT_SEAT	AFK
+LEFT_SEAT_10_MIN	10 ëåğ.
+LEFT_SEAT_30_MIN	30 ëåğ.
+LEFT_SEAT_60_MIN	60 ëåğ.
+LEFT_SEAT_90_MIN	90 ëåğ.
+LEFT_SEAT_120_MIN	120 ëåğ.
+LEFT_SEAT_180_MIN	180 ëåğ.
+LEFT_SEAT_LOGOUT	Áğïóıíäåóç
+LEFT_SEAT_OFF	OFF
+LOAD_ERROR	Ôï áñ÷åßï åßíáé êáôåóôñáììİíï. Ğáñáêáëïıìå åãêáôÜóôçóå åê íİïõ. ĞÜôá ESC.
+LOGIN_CONNECT	Óıíäåóç
+LOGIN_CONNECTING	Óõíäİåóáé ìå ôïí óİñâåñ.
+LOGIN_DEFAULT_SERVERADDR	¼íïìá óİñâåñ, ÊáíÜëé 1
+LOGIN_EXIT	¸îïäïò
+LOGIN_ID	¼íïìá ÷ñŞóôç
+LOGIN_PASSWORD	Êùäéêüò Óıíäåóçò
+LOGIN_REGION_TITLE	ÅğéëïãŞ èİóçò ãéá ôçí İêäïóç ôéìïëïãßïõ
+LOGIN_SELECT_BUTTON	ÅğéëïãŞ
+LOGIN_SELECT_EXIT	¸îïäïò
+LOGIN_SELECT_OK	OK
+LOGIN_SELECT_TITLE	ÅğéëïãŞ óİñâåñ
+LOOTING_SYSTEM_ARMOR	Ğáíïğëßá
+LOOTING_SYSTEM_CATEGORY_COMMON	¢ëëá
+LOOTING_SYSTEM_CATEGORY_COMMON_BELT	Æşíåò
+LOOTING_SYSTEM_CATEGORY_COMMON_EAR	Óêïõëáñßêéá
+LOOTING_SYSTEM_CATEGORY_COMMON_FOOTS	Ğáğïıôóéá
+LOOTING_SYSTEM_CATEGORY_COMMON_GLOVE	ÃÜíôéá
+LOOTING_SYSTEM_CATEGORY_COMMON_NECK	Ğåñéäİñáéá
+LOOTING_SYSTEM_CATEGORY_COMMON_PENDANT	Öõëá÷ôÜ
+LOOTING_SYSTEM_CATEGORY_COMMON_PICK	Áîßíåò
+LOOTING_SYSTEM_CATEGORY_COMMON_ROD	ÊáëÜìéá Øáñİì.
+LOOTING_SYSTEM_CATEGORY_COMMON_SHIELD	Áóğßäåò
+LOOTING_SYSTEM_CATEGORY_COMMON_WRIST	Âñá÷éüëéá
+LOOTING_SYSTEM_CATEGORY_COSTUME	ÖïñåóéÜ
+LOOTING_SYSTEM_CATEGORY_COSTUME_ACCE	Êïñäİëåò
+LOOTING_SYSTEM_CATEGORY_COSTUME_ARMOR	Öïñåóéİò
+LOOTING_SYSTEM_CATEGORY_COSTUME_AURA	Ñïı÷á Áıñáò
+LOOTING_SYSTEM_CATEGORY_COSTUME_ETC	¢ëëá
+LOOTING_SYSTEM_CATEGORY_COSTUME_HAIR	Êïììşóåéò
+LOOTING_SYSTEM_CATEGORY_COSTUME_WEAPON	Åìöáíßóåéò ¼ğëùí
+LOOTING_SYSTEM_CATEGORY_DS	Åßäïò
+LOOTING_SYSTEM_CATEGORY_DS_DS	Cor Draconis
+LOOTING_SYSTEM_CATEGORY_DS_ETC	¢ëëá
+LOOTING_SYSTEM_CATEGORY_ETC	¢ëëá
+LOOTING_SYSTEM_CATEGORY_ETC_ETC	¢ëëá
+LOOTING_SYSTEM_CATEGORY_ETC_GIFTBOX	Êïõôß äşñïõ
+LOOTING_SYSTEM_CATEGORY_ETC_MATRIMONY	ÃÜìïò & ÔåëåôŞ
+LOOTING_SYSTEM_CATEGORY_ETC_PARTY	ÏìÜäá
+LOOTING_SYSTEM_CATEGORY_ETC_POLYMORPH	Ğïëõìïñößá
+LOOTING_SYSTEM_CATEGORY_ETC_RECIPE	ĞáñáóêåõŞ
+LOOTING_SYSTEM_CATEGORY_ETC_SEAL	ĞÜğõñïé
+LOOTING_SYSTEM_CATEGORY_ETC_WEAPON_ARROW	Âİëç
+LOOTING_SYSTEM_CATEGORY_FISH_MINING	Åßäïò
+LOOTING_SYSTEM_CATEGORY_FISH_MINING_ETC	¢ëëá
+LOOTING_SYSTEM_CATEGORY_FISH_MINING_FOOD	ÔñïöŞ
+LOOTING_SYSTEM_CATEGORY_FISH_MINING_STONE	Ìåôáëëåıì.&Ğåôñşì.
+LOOTING_SYSTEM_CATEGORY_JOB	ÊëÜóç
+LOOTING_SYSTEM_CATEGORY_JOB_ASSASSIN	Íßíôæá
+LOOTING_SYSTEM_CATEGORY_JOB_PUBLIC	¢ëëá
+LOOTING_SYSTEM_CATEGORY_JOB_SHAMAN	ÓáìÜíïò
+LOOTING_SYSTEM_CATEGORY_JOB_SURA	Sura
+LOOTING_SYSTEM_CATEGORY_JOB_WARRIOR	ĞïëåìéóôŞò
+LOOTING_SYSTEM_CATEGORY_JOB_WOLFMAN	Ëõêáíüò
+LOOTING_SYSTEM_CATEGORY_MOUNT_PET	Åßäïò
+LOOTING_SYSTEM_CATEGORY_MOUNT_PET_CHARGED_PET	Êáôïéêßäéá
+LOOTING_SYSTEM_CATEGORY_MOUNT_PET_EGG	ÁâãÜ êáôïéêéäßùí
+LOOTING_SYSTEM_CATEGORY_MOUNT_PET_FREE_PET	ÁîåóïõÜñ êáôïéêéä.
+LOOTING_SYSTEM_CATEGORY_MOUNT_PET_MOUNT	Æşá éğğáóßáò
+LOOTING_SYSTEM_CATEGORY_POTION	Åßäïò
+LOOTING_SYSTEM_CATEGORY_POTION_ABILITY	Êáôáíáë. áãáèÜ
+LOOTING_SYSTEM_CATEGORY_POTION_ETC	¢ëëá
+LOOTING_SYSTEM_CATEGORY_POTION_HAIRDYE	×ñşìáôá ìáëëéşí
+LOOTING_SYSTEM_CATEGORY_REFINE	Åßäïò
+LOOTING_SYSTEM_CATEGORY_REFINE_ALCHEMY	ÁõîÜíåé ôçí Ğéèáíüôçôá
+LOOTING_SYSTEM_CATEGORY_REFINE_ETC	¢ëëá
+LOOTING_SYSTEM_CATEGORY_REFINE_MATERIAL	ÕëéêÜ
+LOOTING_SYSTEM_CATEGORY_REFINE_STONE	Ëßèïé Ğíåıìáôïò
+LOOTING_SYSTEM_CATEGORY_UNIQUE	Åßäïò
+LOOTING_SYSTEM_CATEGORY_UNIQUE_ABILITY	ÊáôáíáëùôéêÜ åßäç
+LOOTING_SYSTEM_CATEGORY_UNIQUE_ETC	¢ëëá
+LOOTING_SYSTEM_COMMON	Ğåñáéôİñù åîïğëéóìüò
+LOOTING_SYSTEM_COSTUME	ÖïñåóéÜ
+LOOTING_SYSTEM_DS	Áë÷çìåßá Äñáêüëéèùí
+LOOTING_SYSTEM_ETC	¢ëëï áíôéêåßìåíï
+LOOTING_SYSTEM_EVENT	Áíôéêåßìåíï event
+LOOTING_SYSTEM_EXIT_WITHOUT_SAVING	Êëåßóéìï ÷ùñßò áğïèŞêåõóç;
+LOOTING_SYSTEM_EXIT_WITH_SAVING	ÁğïèŞêåõóç êáé êëåßóéìï; Ïé áëëáãİò óïõ èá áğïèçêåõôïıí ìüëéò ÷ñçóéìïğïéŞóåéò İíá ĞÜóï Ëåßáò.
+LOOTING_SYSTEM_FISH_MINING	ØÜñåìá & Åîüñõîç
+LOOTING_SYSTEM_HEAD	ÊñÜíïò
+LOOTING_SYSTEM_INIT	Ìçäåíéóìüò
+LOOTING_SYSTEM_INIT_QUESTION_DIALOG_TITLE	Èİëåéò íá ìçäåíßóåéò ôéò ñõèìßóåéò;
+LOOTING_SYSTEM_MESSAGE_ENABLE_VOUCHER	Ïé ëåéôïõñãßåò åíåñãïğïéïıíôáé ìå ĞÜóï ëåßáò
+LOOTING_SYSTEM_MESSAGE_POSSIBLE_ITEM_PICKUP	ÁğïêôÜò ëåßá áíÜëïãá ìå ôéò ñõèìßóåéò óïõ.
+LOOTING_SYSTEM_MOUNT_PET	Æşá éğğáóßáò & Êáôïéêßäéá
+LOOTING_SYSTEM_OFF	OFF
+LOOTING_SYSTEM_ON	ON
+LOOTING_SYSTEM_POTION	Ößëôñá
+LOOTING_SYSTEM_QUESTION_ARMOR	Åäş ìğïñåßò íá ïñßóåéò ôéò ğáñáìİôñïõò óõëëïãŞò ãéá ğáíïğëßåò.
+LOOTING_SYSTEM_QUESTION_COMMON	Ìğïñåßò íá êáèïñßóåéò ğáñáìİôñïõò óõëëïãŞò ãéá Üëëá áíôéêåßìåíá, ôá ïğïßá ÷ñçóéìïğïéïıíôáé áğü üëåò ôéò êëÜóåéò.
+LOOTING_SYSTEM_QUESTION_COSTUME	Åäş ìğïñåßò íá êáèïñßóåéò ğáñáìİôñïõò óõëëïãŞò ãéá öïñåóéİò (üğëá, ğáíïğëßåò, êáëıììáôá êåöáëŞò, êïñäİëåò êáé Ñïı÷á Áıñáò).
+LOOTING_SYSTEM_QUESTION_DS	Åäş ìğïñåßò íá ïñßóåéò ôéò ğáñáìİôñïõò óõëëïãŞò ãéá áíôéêåßìåíá Áë÷çìåßáò Äñáêüëéèùí.
+LOOTING_SYSTEM_QUESTION_ETC	Åäş ìğïñåßò íá êáèïñßóåéò ğáñáìİôñïõò óõëëïãŞò ãéá Üëëá áíôéêåßìåíá ôùí êáôçãïñéşí åîïğëéóìüò, öïñåóéİò, åîåõãåíéóìüò, ößëôñá, æşá éğğáóßáò, êáôïéêßäéá, øÜñåìá, åîüñõîç, Âéâëßá éêáíïôŞôùí êáé áíôéêåßìåíá event.
+LOOTING_SYSTEM_QUESTION_EVENT	Åäş ìğïñïıí íá ïñéóôïıí ğáñÜìåôñïé óõëëïãŞò ãéá áíôéêåßìåíá event.
+LOOTING_SYSTEM_QUESTION_FISH_MINING	Åäş ìğïñåßò íá êáèïñßóåéò ğáñáìİôñïõò óõëëïãŞò ãéá áíôéêåßìåíá øáñİìáôïò êé åîüñõîçò.
+LOOTING_SYSTEM_QUESTION_HEAD	Åäş ìğïñåßò íá ïñßóåéò ôéò ğáñáìİôñïõò óõëëïãŞò ãéá êñÜíç.
+LOOTING_SYSTEM_QUESTION_MOUNT_PET	Åäş ìğïñåßò íá êáèïñßóåéò ğáñáìİôñïõò óõëëïãŞò ãéá æşá éğğáóßáò êáé êáôïéêßäéá.
+LOOTING_SYSTEM_QUESTION_POTION	Åäş ìğïñåßò íá êáèïñßóåéò ğáñáìİôñïõò óõëëïãŞò ãéá ößëôñá.
+LOOTING_SYSTEM_QUESTION_REFINE	Åäş ìğïñåßò íá êáèïñßóåéò ğáñáìİôñïõò óõëëïãŞò ãéá áíôéêåßìåíá åîåõãåíéóìïı.
+LOOTING_SYSTEM_QUESTION_SKILL_BOOK	Ğåñéİ÷åé âéâëßá éêáíïôŞôùí ãéá óõãêåêñéìİíåò êëÜóåéò êáé éêáíüôçôåò áëüãùí.
+LOOTING_SYSTEM_QUESTION_UNIQUE	Åäş ìğïñåßò íá ïñßóåéò ôéò ğáñáìİôñïõò óõëëïãŞò ãéá ìïíáäéêÜ áíôéêåßìåíá.
+LOOTING_SYSTEM_QUESTION_WEAPON	Ùò üğëá ìåôñÜíå üëá ôá üğëá ğïõ ìğïñåßò íá åîïğëßóåéò, åêôüò áğü ôá âİëç.
+LOOTING_SYSTEM_REFINE	Åîåõãåíéóìüò
+LOOTING_SYSTEM_SAVE	ÁğïèŞêåõóç
+LOOTING_SYSTEM_SAVING	Èİëåéò íá áğïèçêåıóåéò;\nÏé ëåéôïõñãßåò åíåñãïğïéïıíôáé üôáí ÷ñçóéìïğïéåßôáé İíá ĞÜóï ëåßáò.
+LOOTING_SYSTEM_SKILL_BOOK	Âéâëßï ÉêáíïôŞôùí
+LOOTING_SYSTEM_TITLE	Ößëôñï Ëåßáò
+LOOTING_SYSTEM_UNIQUE	Ìïíáäéêü
+LOOTING_SYSTEM_WEAPON	¼ğëï
+LOOTING_SYSTEM_WEARING_LEVEL	Áğáéôïıìåíï åğßğåäï
+LUCKY_BOX_NOTICE_YANG	ÔéìŞ Yang ãéá íİá ôı÷ç áíôéêåéìİíùí
+LUCKY_BOX_RECV_BUTTON	Áğïäï÷Ş áíôéêåéìİíïõ
+LUCKY_BOX_RECV_NAME	Ğåñéå÷üìåíï:
+LUCKY_BOX_RETRY_BUTTON	Íİá ôı÷ç áíôéêåéìİíïõ
+LUCKY_BOX_TITLE_NAME	ÊïõôÜêé ôı÷çò
+MAILBOX_POST_ALL_DELETE_BUTTON	ÄéáãñáöŞ üëùí
+MAILBOX_POST_ALL_RECEIVE	Áğïäï÷Ş üëùí
+MAILBOX_POST_READ_BLOCK	Áğïêëåéóìüò
+MAILBOX_POST_READ_DELETE	ÄéáãñáöŞ
+MAILBOX_POST_READ_FROM	Áğü
+MAILBOX_POST_READ_MAIN_TITLE	ÌŞíõìá
+MAILBOX_POST_READ_RECV	Áğïäï÷Ş
+MAILBOX_POST_READ_TITLE	Èİìá
+MAILBOX_POST_SEND_TITLE	ÌŞíõìá
+MAILBOX_POST_WRITE_BUTTON_TEXT	ÁğïóôïëŞ
+MAILBOX_POST_WRITE_CLOSE_TEXT	Êëåßóéìï
+MAILBOX_POST_WRITE_CONFIRM_TEXT	¸ëåã÷ïò ğáñáëŞğôç
+MAILBOX_POST_WRITE_SEND_TEXT	ÁğïóôïëŞ
+MAILBOX_POST_WRITE_TITLE	Èİìá
+MAILBOX_POST_WRITE_TO	Ğñïò
+MAILBOX_TITLE	Åéóåñ÷üìåíá
+MALL_PASSWORD_TITLE	Óõíèçìáôéêü
+MALL_TITLE	ÁğïèŞêç Item Shop
+MARKET_TITLE	Öüñôùóç
+MARKLIST_REFRESH	Áíáíİùóç
+MARKLIST_TITLE	Êáôá÷şñéóç ÓŞìáôïò Óõíôå÷íßáò
+MC_ACHIEV_ABLE_REGIST	ÆŞôçóç
+MC_ACHIEV_APPLY	ÅöáñìïãŞ
+MC_ACHIEV_APPLYING	Åíåñãü
+MC_ACHIEV_BONUS_NONE	Êáíİíá ìğüíïõò
+MC_ACHIEV_DISABLE	Áíåíåñãü
+MC_ACHIEV_DUNGEON	Åğéôõ÷ßåò Ìğïõíôñïõìéşí
+MC_ACHIEV_DUNGEON_BONUS	Ìğüíïõò Ìğïõíôñïõìéşí
+MC_ACHIEV_FIELD	Åğéôõ÷ßåò ğåäßïõ
+MC_ACHIEV_FIELD_BONUS	Ìğüíïõò ğåäßïõ
+MC_ACHIEV_REGIST	ÆŞôçóç åğéôõ÷ßáò
+MC_ACHIEV_SHOW	Ëåğôïìİñåéåò
+MC_ACHIEV_SORT_ABLE_REGIST	ÆŞôçóç
+MC_ACHIEV_SORT_ALL	¼ëá
+MC_ACHIEV_SORT_APPLYING	Åíåñãü
+MC_ACHIEV_SORT_DISABLE	ÁíåêğëŞñùôá
+MC_ACHIEV_SORT_REGIST	ÅíåñãïğïéŞóéìá
+MC_EXCHANGE_BUTTON	ÁëëáãŞ
+MC_MISSION_INIT_BUTTON	Áêıñùóç åğéğİäïõ áğïóôïëŞò
+MC_MOTION_BUTTON	Êßíçóç
+MC_POLY_BUTTON	Ìåôáìüñöùóç
+MC_PROMOTION_BUTTON	Âåëôßùóç
+MC_REQUEST_MISSION_BUTTON	Áğïäï÷Ş áğïóôïëŞò
+MC_REWARD_CARD_BUTTON	ĞáñáëáâŞ ÊÜñôáò ôåñÜôùí
+MC_SHUFFLE_BUTTON	ÁíáêáôÜôáîç Êáñôşí ôåñÜôùí
+MC_SUMMON_BUTTON	Åğßêëçóç
+MC_TAB_BUTTON_ACHIEV	Ìğüíïõò åğéôõ÷ßáò
+MC_TAB_BUTTON_CARD_MISSION	ÁğïóôïëŞ êÜñôáò
+MC_TAB_BUTTON_PARTY	ÓõëëïãŞ ìğïõíôñïõìéïı
+MC_TAB_BUTTON_SOLO	ÓõëëïãŞ õğáßèñïõ
+MC_WARP_BUTTON	ÔçëåìåôáöïñÜ
+MERCENARY_MANAGE_DELAY_CURE	ÁñãŞ Èåñáğåßá
+MERCENARY_MANAGE_DRAIN_MAIN	Ìéóèïöüñïò ğñïò Åêğáßäåõóç
+MERCENARY_MANAGE_DRAIN_START	Åêğáßäåõóç
+MERCENARY_MANAGE_DRAIN_SUB	Åêğáéäåõüìåíïò ìéóèïöüñïò
+MERCENARY_MANAGE_EXP	Ğüíôïé åìğåéñßáò ìéóèïöüñùí
+MERCENARY_MANAGE_FIRE	Äéşîéìï
+MERCENARY_MANAGE_IMMEDIATELY_CURE	¢ìåóç Èåñáğåßá
+MERCENARY_MANAGE_INFO	Ğëçñïöïñßåò ìéóèïöüñïõ
+MERCENARY_MANAGE_LEVEL	Åğßğåäï ìéóèïöüñïõ
+MERCENARY_MANAGE_LEVELUP	Áıîçóç åğéğİäïõ ìéóèïöüñùí
+MERCENARY_MANAGE_NAME	¼íïìá
+MERCENARY_MANAGE_NEXT_EXP	Áğáéôïıìåíç ÅÌĞ áğïóôïëŞò
+MERCENARY_MANAGE_NEXT_LEVEL	Åğüìåíï åğßğåäï
+MERCENARY_MANAGE_REGIST_DRAIN	Åêğáßäåõóç
+MERCENARY_MANAGE_SKILL	Éêáíüôçôá
+MERCENARY_MANAGE_SPECIFICITY	Åéäßêåõóç
+MERCENARY_MISSION_ACTIVE	Áíôï÷Ş
+MERCENARY_MISSION_ALL_CANCLE	Áğüëõóç üëùí
+MERCENARY_MISSION_AUTO_JOIN	Áõôüìáôç åğéëïãŞ
+MERCENARY_MISSION_BONUS_REWARD	Áğüêôçóç åğéğëİïí áíôáìïéâŞò!
+MERCENARY_MISSION_CURRENT_INFO	Ôñİ÷ïõóá ÊáôÜóôáóç áğïóôïëŞò
+MERCENARY_MISSION_DECREASE_RUNTIME	Ìåßùóç äéÜñêåéáò áğïóôïëŞò
+MERCENARY_MISSION_DECREAS_INJURE	Ìåßùóå ôï ñßóêï ôñáõìáôéóìïı
+MERCENARY_MISSION_DISPATCH_BENEFITS	Ğñïôİñçìá óôñáôåıìáôïò
+MERCENARY_MISSION_DISPATCH_MERCENARY	ÁğïóôïëŞ ìéóèïöüñùí
+MERCENARY_MISSION_EXP_BONUS	Áğİêôçóåò ìğüíïõò ğüíôùí Åìğåéñßáò!
+MERCENARY_MISSION_INFO	Ğëçñïöïñßåò áğïóôïëŞò
+MERCENARY_MISSION_JOIN	Óõììåôï÷Ş
+MERCENARY_MISSION_LIMIT_ACTIVE	Áğáéôïıìåíç Áíôï÷Ş
+MERCENARY_MISSION_LIMIT_LEVEL	Áğáéôïıìåíï Åğßğåäï ìéóèïöüñïõ
+MERCENARY_MISSION_MERCENARY_LIST	Ğñïëçììİíïé ìéóèïöüñïé
+MERCENARY_MISSION_REGIST	Áğïóôïëİò
+MERCENARY_MISSION_REWARD_LIST	Áíôáìïéâİò
+MERCENARY_MISSION_SUCCESS_PCT	Ğéèáíüôçôá åğéôõ÷ßáò
+MERCENARY_MISSION_SUGGESTION	Óõíéóôşìåíïò ìéóèïöüñïò
+MERCENARY_MISSION_TYPE	Åßäïò áğïóôïëŞò
+MERCENARY_TITLE	Óıóôçìá ìéóèïöüñùí
+MESSAGE	Áõôü åßíáé İíá ìŞíõìá
+MESSENGER_ADD_FRIEND	ĞñïóèŞêç ößëïõ
+MESSENGER_BLOCK	Áğïêëåéóìüò
+MESSENGER_BLOCK_FRIEND	Áğïêëåéóìüò
+MESSENGER_DELETE_FRIEND	ÄéáãñáöŞ
+MESSENGER_MOBILE	ÁğïóôïëŞ SMS
+MESSENGER_OPEN_GUILD	¢íïéãìá ğáñáèıñïõ óõíôå÷íßáò
+MESSENGER_TITLE	Ößëïé
+MESSENGER_USE_GUILD_MOVE_SKILL	×ñŞóç ôçò Éêáíüôçôáò Ìåôáêßíçóçò Óõíôå÷íßáò
+MESSENGER_WHISPER	Øßèõñïò
+MINIGAME_FISH_EVENT_USE_COUNT	Ğïóüôçôá
+MINIMIZE	Åëá÷éóôïğïßçóç
+MINI_BOSS_DUNGEON_DESC_BTN	Êáíüíåò event
+MINI_BOSS_DUNGEON_TITLE_NAME	Óõììåôİ÷ïíôåò
+MINI_BOSS_DUNGEON_TITLE_NUM	ÊáôÜôáîç
+MINI_BOSS_DUNGEON_TITLE_POINT	Ğüíôïé ÁğïêÜëõøçò
+MINI_BOSS_DUNGEON_TOOTIP_01	Åğéóêüğçóç ìğïõíôñïõìéïı
+MINI_BOSS_DUNGEON_TOOTIP_02	ÁğïêÜëõøç ãéá åğßğåäá 40 ùò 80
+MINI_BOSS_DUNGEON_TOOTIP_03	ÁğïêÜëõøç áğü åğßğåäï 81
+MINI_BOSS_DUNGEON_TOOTIP_04	Åßóïäïò
+MINI_BOSS_DUNGEON_TOOTIP_05	Õğïëåéğüìåíïò ÷ñüíïò
+MINI_BOSS_DUNGEON_TOOTIP_06	Ïé Ğüíôïé ÁğïêÜëõøŞò ìïõ
+MINI_BOSS_DUNGEON_TOOTIP_07	Õğüëïéğåò Áğïêáëıøåéò
+MINI_BOSS_DUNGEON_TOOTIP_08	Ç áíôáìïéâŞ ìïõ
+MINI_BOSS_TITLE	ÆùäéáêŞ ÁğïêÜëõøç
+MINI_GAME_BLACK_AND_WHITE_DONATE	Äùñåİò
+MINI_GAME_BLACK_AND_WHITE_GAME_TITLE	Äéáãùíéóìüò ìáíôşí
+MINI_GAME_BLACK_AND_WHITE_RANK_BUTTON	Ëßóôá êáôÜôáîçò
+MINI_GAME_BLACK_AND_WHITE_REWARD_TRADE	Âñáâåßá
+MINI_GAME_BLACK_AND_WHITE_START_BUTTON	Åêêßíçóç
+MINI_GAME_BLACK_AND_WHITE_WAITTING_TITLE	Äéáãùíéóìüò ìáíôşí
+MINI_GAME_CATCHKING_CHALLENGE	Óôïß÷çìá
+MINI_GAME_CATCHKING_HELP_TEXT	Êáíüíåò
+MINI_GAME_CATCHKING_HIGH_SCORE	ÊáôÜôáîç
+MINI_GAME_CATCHKING_MYNUMBER	Ç êÜñôá ìïõ
+MINI_GAME_CATCHKING_POPUP_CONFIRM	Pop up on/off
+MINI_GAME_CATCHKING_RETRY	Íİï ğáé÷íßäé
+MINI_GAME_CATCHKING_REWARD	Ç áíôáìïéâŞ óïõ
+MINI_GAME_CATCHKING_SCORE	Ğüíôïé
+MINI_GAME_CATCHKING_SELECTION_NUMBER	Ãõñéóìİíç êÜñôá
+MINI_GAME_CATCHKING_START_TEXT	Åêêßíçóç
+MINI_GAME_CATCHKING_TITLE	¢ñğáîå ôïí ÂáóéëéÜ
+MINI_GAME_FISH_HELP_TEXT	ÂïŞèåéá
+MINI_GAME_FISH_START_TEXT	Åêêßíçóç
+MINI_GAME_FISH_TITLE	Ğáé÷íßäé øáñïğÜæë
+MINI_GAME_RUMI_DISCARD_TEXT	ÁóöáëŞò ëåéôïõñãßá
+MINI_GAME_RUMI_EXIT	Êëåßóéìï
+MINI_GAME_RUMI_LBUTTON_DESC	ĞñïóèŞêç êÜñôáò ìå áñéóôåñü êëéê
+MINI_GAME_RUMI_RBUTTON_DESC	Áöáßñåóç êÜñôáò ìå äåîß êëéê
+MINI_GAME_RUMI_SCORE	Ğüíôïé
+MINI_GAME_RUMI_START_TEXT	Åêêßíçóç
+MINI_GAME_RUMI_TITLE	Ğáé÷íßäé Okey
+MINI_GAME_YUTNORI_COM_TEXT	ÕğïëïãéóôŞò
+MINI_GAME_YUTNORI_PLAYER_TEXT	Ğáßêôçò
+MINI_GAME_YUTNORI_PROBABILITY	Ğéèáíüôçôá
+MINI_GAME_YUTNORI_PROB_DESC	Åğßëåîå ìéá æáñéÜ Yut, ãéá íá ôçò äşóåéò ìåãáëıôåñç ğéèáíüôçôá.
+MINI_GAME_YUTNORI_REMAIN_COUNT	ÊéíŞóåéò
+MINI_GAME_YUTNORI_REWARD_TEXT	ÁíôáìïéâŞ
+MINI_GAME_YUTNORI_SCORE	Ğüíôïé
+MINI_GAME_YUTNORI_START_TEXT	Åêêßíçóç
+MINI_GAME_YUTNORI_THROW	Ñßøç
+MINI_GAME_YUTNORI_TITLE	Ãéïõôíüñé
+MINI_GAME_YUTNORI_YUTSEM1	Do
+MINI_GAME_YUTNORI_YUTSEM2	Ge
+MINI_GAME_YUTNORI_YUTSEM3	Geol
+MINI_GAME_YUTNORI_YUTSEM4	Yut
+MINI_GAME_YUTNORI_YUTSEM5	Mo
+MINI_GAME_YUTNORI_YUTSEM6	Back do
+MISTS_ISLAND_EMPIRE_NAME	¼íïìá Âáóéëåßïõ
+MISTS_ISLAND_EMPIRE_SCORE	Âáèìïß Âáóéëåßïõ
+MISTS_ISLAND_END_TIME	Çìåñïìçíßá ëŞîçò
+MISTS_ISLAND_EXIT	¸îïäïò
+MISTS_ISLAND_INFO_TEXT	Óôïé÷åßá Èİóçò êáé ÊáôÜóôáóçò
+MISTS_ISLAND_RANK	ÊáôÜôáîç
+MISTS_ISLAND_SCORE	Âáèìïß
+MISTS_ISLAND_TITLE_RANK	Óôïé÷åßá Èİóçò êáé ÊáôÜóôáóçò
+MISTS_ISLAND_TITLE_SCORE	Åğéóêüğçóç
+MONSTER_CARD_ACHIEV_BONUS	Åğéôõ÷ßåò
+MOONLIGHT_VALLEY_BOSS_SUMMONS_BUTTON	Åğßêëçóç
+MOONLIGHT_VALLEY_BOSS_SUMMONS_TITLE	Nykos
+MOUNT_UPGRADE_SYSTEM_DISABLE_GIVE_FEED_BUTTON_POPUP_MESSAGE	Äåí ìğïñåßò íá ôáÀóåéò Üëëï ôï ¢ëïãï.
+MOUNT_UPGRADE_SYSTEM_GIVE_FEED	ÔÜéóìá Áëüãïõ
+MOUNT_UPGRADE_SYSTEM_GIVE_FEED_BUTTON_POPUP_MESSAGE	Ãéá íá áõîçèåß ôï åğßğåäï, ğñİğåé íá ôáÀóåéò üëç ôçí ÔñïöŞ áëüãïõ.
+MOUNT_UPGRADE_SYSTEM_GIVE_FEED_NOT_ENOUGH	ÁíåğáñêŞò ÔñïöŞ áëüãùí
+MOUNT_UPGRADE_SYSTEM_LEVEL_UP	Áıîçóç åğéğİäïõ
+MOUNT_UPGRADE_SYSTEM_TITLE	Áıîçóç åğéğİäïõ Áëüãùí
+MOUSEBUTTON_ATTACK	Åğßèåóç
+MOUSEBUTTON_AUTO_ATTACK	Áõôüìáôç åğßèåóç
+MOUSEBUTTON_CAMERA	ÊÜìåñá
+MOUSEBUTTON_SKILL	Éêáíüôçôåò
+MUSICLIST_TITLE	Åğéëïãİò ÌïõóéêŞò
+MYSHOP_DECO_CANCEL	Êëåßóéìï
+MYSHOP_DECO_DEFAULT	Êáíïíéêü
+MYSHOP_DECO_NEXT	Óõíİ÷åéá
+MYSHOP_DECO_OK	ÏëïêëŞñùóç
+MYSHOP_DECO_PREV	Ğßóù
+MYSHOP_DECO_SELECT_MODEL	ÄéÜëåîå ôçí åìöÜíéóç ôïõ êáôáóôŞìáôüò óïõ.
+MYSHOP_DECO_SELECT_TITLE	ÄéÜëåîå ôçí åìöÜíéóç ôïõ ôßôëïõ óïõ.
+NO	¼÷é
+NPC_HELPER_ATLAS_EXPAND_BUTTON_TOOLTIP	ĞñïâïëŞ Åıñåóçò ÷áñáêôŞñá
+NPC_HELPER_ATLAS_SHRINK_BUTTON_TOOLTIP	Êëåßóéìï Åıñåóçò ÷áñáêôŞñá
+NPC_HELPER_ATLAS_SWITCH_TO_NPC_LOCATION_HELPER_BUTTON_TOOLTIP	ÁëëáãŞ ÷Üñôç óôçí Åıñåóç ÷áñáêôŞñá
+NPC_HELPER_ATLAS_SWITCH_TO_SMALL_BUTTON_TOOLTIP	ÁëëÜæåé óôçí ğáëéÜ ğñïâïëŞ ÷Üñôç
+NPC_HELPER_ATLAS_TITLE	ÌåãÜëïò ×Üñôçò
+NPC_HELPER_NPC_INFO_CONQUEROR_LEVEL	Åğ. C
+NPC_HELPER_NPC_INFO_LEVEL	Åğ.
+NPC_HELPER_NPC_INFO_MENU_NPC_LIST	×áñáêôŞñåò
+NPC_HELPER_NPC_INFO_MENU_SELECT_CATEGORY	ÅğéëïãŞ ğåñéï÷Şò
+NPC_HELPER_NPC_INFO_MENU_SELECT_MAP	ÅğéëïãŞ ÷Üñôç
+NPC_HELPER_NPC_INFO_TITLE	Åıñåóç ÷áñáêôŞñá
+NPC_LOCATION_HELPER_MAP_CATEGORY_EMPIRE_DUNGEON	Ìğïõíôñïıìéá
+NPC_LOCATION_HELPER_MAP_CATEGORY_EMPIRE_FIELD	Âáóßëåéá
+NPC_LOCATION_HELPER_MAP_CATEGORY_EVIL_DRAGON_TERRITORY	ÂñÜ÷ïò ôùí Óêïôåéíşí ÄñÜêùí
+NPC_LOCATION_HELPER_MAP_CATEGORY_LABYRINTH	Ïñïğİäéï ØåõäáéóèŞóåùí
+NPC_LOCATION_HELPER_MAP_CATEGORY_NEUTRAL	Ïõäİôåñåò ğåñéï÷İò
+NPC_LOCATION_HELPER_MAP_CATEGORY_NEW_WORLD_DUNGEON	Ìğïõíôñïıìéá óôç Yohara
+NPC_LOCATION_HELPER_MAP_CATEGORY_NEW_WORLD_FIELD	Yohara
+NPC_LOCATION_HELPER_MOB_INFO_DROP_ITEM_INFO	ĞéèáíŞ ëåßá
+NPC_LOCATION_HELPER_MOB_INFO_MOB_INFO	Ôİñáò
+NPC_LOCATION_HELPER_MOB_INFO_TITLE	ÊáôÜëïãïò ôåñÜôùí
+NPC_LOCATION_HELPER_QUEST_PROGRESS_STATE_ACCEPT	Áğïäåêôİò
+NPC_LOCATION_HELPER_QUEST_PROGRESS_STATE_COMPLETE	Ïëïêëçñşèçêáí
+NPC_LOCATION_HELPER_QUEST_PROGRESS_STATE_PROGRESS	Åíåñãİò
+NPC_LOCATION_HELPER_TOOLTIP_DROP_ITEM_INFO	ÊáôÜëïãïò ôåñÜôùí: Óïõ äåß÷íåé ğïéá ëåßá ìğïñåßò íá ëÜâåéò áğü ğïéá ôİñáôá.
+NPC_LOCATION_HELPER_TOOLTIP_GUILD_LAND	Ãç óõíôå÷íßáò: Ïé ğëçñïöïñßåò áíáíåşíïíôáé. Ìğïñåß íá ÷ñçóéìïğïéçèåß 1 öïñÜ ôï ëåğôü.
+NPC_LOCATION_HELPER_TOOLTIP_MOB_INFO_SEARCH_BUTTON	ÄéÜëåîå ôï ôİñáò ğïõ èİëåéò íá âñåéò êáé êÜíå êëéê óôï óıìâïëï, ãéá íá ğñïâëçèåß ç ğåñéï÷Ş ôïõ. Ğñİğåé íá İ÷åéò åíåñãïğïéŞóåé ôçí Åıñåóç ôåñÜôùí.
+NPC_LOCATION_HELPER_TOOLTIP_MY_LOCATION	ÅğéóôñïöŞ óôçí Ôïğïèåóßá: Äåß÷íåé ôïí ÷Üñôç óôïí ïğïßï âñßóêåóáé. Áí âñßóêåóáé óôïí ßäéï ÷Üñôç, ç ğñïâïëŞ åóôéÜæåôáé óôïí ÷áñáêôŞñá óïõ.
+NPC_LOCATION_HELPER_TOOLTIP_SCALE_DOWN	Åëá÷éóôïğïßçóç
+NPC_LOCATION_HELPER_TOOLTIP_SCALE_UP	Ìåãİèõíóç
+OK	OK
+OPPOSITES	Áğüññéøç
+OPTION_ALWAYS_SHOW_NAME	¼íïìá
+OPTION_ALWAYS_SHOW_NAME_OFF	Ğåñéïñéóìİíï
+OPTION_ALWAYS_SHOW_NAME_ON	ĞÜíôá
+OPTION_ATTACKED_MOTION	Áíéìáóéüí
+OPTION_ATTACKED_MOTION_ALL	Êáíïíéêüò
+OPTION_ATTACKED_MOTION_ALL_DESC	Åìöáíßæïíôáé üëá ôá áíéìáóéüí ìÜ÷çò åî åğáöŞò.
+OPTION_ATTACKED_MOTION_SELF	Åğßäïóç
+OPTION_ATTACKED_MOTION_SELF_DESC	ÊÜğïéá áíéìáóéüí ìÜ÷çò åî åğáöŞò åìöáíßæïíôáé óå üëïõò, åêôüò áğü ôïí ÷áñáêôŞñá êáé ôïí óôü÷ï.
+OPTION_BLOCK	Öñáãìüò
+OPTION_BLOCK_EXCHANGE	Åìğüñéï
+OPTION_BLOCK_FRIEND	Ößëïé
+OPTION_BLOCK_GUILD	Óõíôå÷íßá
+OPTION_BLOCK_PARTY	ÏìÜäá
+OPTION_BLOCK_PARTY_REQUEST	Áßôçóç
+OPTION_BLOCK_WHISPER	Øßèõñïò
+OPTION_CAMERA_DISTANCE	ÊÜìåñá
+OPTION_CAMERA_DISTANCE_LONG	ÌáêñéÜ
+OPTION_CAMERA_DISTANCE_SHORT	ÊïíôÜ
+OPTION_DELETE_MOBILE_BUTTON	ÄéáãñáöŞ Íïıìåñïõ Êéíçôïı Ôçëåöşíïõ
+OPTION_EFFECT	×ôõğŞìáôá.
+OPTION_ENV_EFFECT	ĞåñéâÜëëïí
+OPTION_ENV_EFFECT_OFF	Off
+OPTION_ENV_EFFECT_ON	On
+OPTION_FOG	Ïìß÷ëç
+OPTION_FOG_DENSE	¸íôïíç
+OPTION_FOG_LIGHT	ÅëáöñéÜ
+OPTION_FOG_MIDDLE	Ìåóáßá
+OPTION_FOG_MODE	Ïìß÷ëç
+OPTION_FOG_MODE_OFF	Off
+OPTION_FOG_MODE_ON	On
+OPTION_FOG_OFF	Off
+OPTION_FOG_ON	On
+OPTION_INPUT_MOBILE_BUTTON	ÅéóáãùãŞ Íïıìåñïõ Êéíçôïı Ôçëåöşíïõ
+OPTION_KEY_SETTING	Ğëçêôñïëüãéï
+OPTION_LANGUAGE_CHANGE	ÅöáñìïãŞ
+OPTION_LANGUAGE_SELECT	Ãëşóóá
+OPTION_LOOTING_SETTING	Ëåßá
+OPTION_MOBILE	Êéíçôü Ôçëİöùíï
+OPTION_MOB_INFO	Óôïé÷. ôİñ.
+OPTION_MOB_INFO_AGGR	Åğéèåôéêü
+OPTION_MOB_INFO_LEVEL	Åğßğåäï
+OPTION_MUSIC	ÌïõóéêŞ
+OPTION_MUSIC_CHANGE	ÁëëáãŞ
+OPTION_MUSIC_DEFAULT_THEMA	ÓõíŞèçò ìïõóéêŞ ôïõ Metin2
+OPTION_NAME_COLOR	×ñşìá
+OPTION_NAME_COLOR_EMPIRE	×ñşìá Âáó/ïõ
+OPTION_NAME_COLOR_NORMAL	Êáíïíéêü
+OPTION_NIGHT_MODE	Íı÷ôá
+OPTION_NIGHT_MODE_OFF	Off
+OPTION_NIGHT_MODE_ON	On
+OPTION_PVPMODE	ÅöáñìïãŞ PvP
+OPTION_PVPMODE_FREE	Åëåıèåñï
+OPTION_PVPMODE_FREE_TOOLTIP	Ìğïñåßò íá åğéôåèåßò óå üëïõò ôïõò ğáßêôåò.
+OPTION_PVPMODE_GUILD	Óõíôå÷íßá
+OPTION_PVPMODE_GUILD_TOOLTIP	Ìğïñåßò íá åğéôåèåßò óå üëïõò ôïõ ğáßêôåò, åêôüò áğü ôá ìİëç ôçò Óõíôå÷íßáò óïõ.
+OPTION_PVPMODE_PEACE	ÅéñŞíç
+OPTION_PVPMODE_PEACE_TOOLTIP	Äåí ìğïñåßò íá åğéôåèåßò óå ğáßêôåò ôïõ Âáóéëåßïõ óïõ.
+OPTION_PVPMODE_REVENGE	Å÷èñéêü
+OPTION_PVPMODE_REVENGE_TOOLTIP	Ìğïñåßò íá åğéôåèåßò ìüíï óå ğáßêôåò áíôßèåôïõ Şèïõò.
+OPTION_SALESTEXT	¼íïìá êáôáóôŞìáôïò
+OPTION_SALESTEXT_VIEW_OFF	Êñıøå
+OPTION_SALESTEXT_VIEW_ON	ÅìöÜíéóç
+OPTION_SETTING	¢íïéãìá
+OPTION_SHADOW_QUALITY	Ğïéüôçôá óêéÜò
+OPTION_SHADOW_QUALITY_AVERAGE	Ìåóáßá
+OPTION_SHADOW_QUALITY_AVERAGE_TOOLTIP	Ìåóáßá Ğïéüôçôá óêéÜò
+OPTION_SHADOW_QUALITY_BAD	×áìçëŞ
+OPTION_SHADOW_QUALITY_BAD_TOOLTIP	×áìçëŞ Ğïéüôçôá óêéÜò
+OPTION_SHADOW_QUALITY_GOOD	ÕøçëŞ
+OPTION_SHADOW_QUALITY_GOOD_TOOLTIP	ÕøçëŞ Ğïéüôçôá óêéÜò
+OPTION_SHADOW_TARGET	ÓêéÜ óôü÷ïõ
+OPTION_SHADOW_TARGET_ALL	4
+OPTION_SHADOW_TARGET_ALL_TOOLTIP	ÓêéÜ ãéá üëïõò ôïõò óôü÷ïõò.
+OPTION_SHADOW_TARGET_GROUND	2
+OPTION_SHADOW_TARGET_GROUND_AND_SOLO	3
+OPTION_SHADOW_TARGET_GROUND_AND_SOLO_TOOLTIP	Óêéİò öüíôïõ êáé óêéİò ğáéêôşí
+OPTION_SHADOW_TARGET_GROUND_TOOLTIP	Óêéİò öüíôïõ
+OPTION_SHADOW_TARGET_NONE	1
+OPTION_SHADOW_TARGET_NONE_TOOLTIP	Êáìßá óêéÜ
+OPTION_SNOW_MODE	×éïíüğôùóç
+OPTION_SNOW_MODE_OFF	Off
+OPTION_SNOW_MODE_ON	On
+OPTION_SNOW_TEXTURE_MODE	×éüíé
+OPTION_SNOW_TEXTURE_MODE_OFF	Off
+OPTION_SNOW_TEXTURE_MODE_ON	On
+OPTION_SOUND	Ç÷çôéêÜ Åöİ
+OPTION_TARGET_BOARD	Åğéëïãİò Óôü÷ïõ
+OPTION_TARGET_BOARD_NO_VIEW	Êëåßóéìï
+OPTION_TARGET_BOARD_VIEW	ÅìöÜíéóç
+OPTION_TITLE	Åğéëïãİò
+OPTION_VIEW_CHAT	Âëİğå Chat
+OPTION_VIEW_CHAT_OFF	Êñıøéìï
+OPTION_VIEW_CHAT_ON	ÅìöÜíéóç
+OPTION_VIEW_DISTANCE	Âåëçíåêİò üñáóçò
+OTHER_WORLD_COUNT_TEXT	Ğïóüôçôá
+OTHER_WORLD_DEAD_SOUL_TEXT	Øõ÷Ş ÈáíÜôïõ
+OTHER_WORLD_DROP_DOWN_X1	x1
+OTHER_WORLD_DROP_DOWN_X5	x5
+OTHER_WORLD_DROP_DOWN_X10	x10
+OTHER_WORLD_EVENT_TIME_TEXT	Ìİñåò ùò ôçí ÅîáöÜíéóç ôïõ Áëëüêïóìïõ
+OTHER_WORLD_EVENT_TITLE	Ôáîßäé óôïí Áëëüêïóìï
+OTHER_WORLD_EVE_EVENT_TIME_TEXT	Ìİñåò ùò ôï Üíïéãìá ôçò Ğıëçò
+OTHER_WORLD_EXCHANGE_MENU_TEXT	ÁëëáãŞ
+OTHER_WORLD_EXCHANGE_TEXT	ÁëëáãŞ
+OTHER_WORLD_EXIT_BUTTON	¸îïäïò
+OTHER_WORLD_HELL_GATE_KEY_TEXT	Êëåéäß Áóìüäåïõ
+OTHER_WORLD_ITEM_NAME_TEXT	Áíôéêåßìåíï
+OTHER_WORLD_LIFE_AND_DEATH_LIST_TEXT	Ìáıñç ÅğéóôïëŞ
+OTHER_WORLD_NEED_TEXT	Áğáéôåßôáé:
+OTHER_WORLD_REINCARNATION_WATER_TEXT	Íåñü ôçò ÆùŞò
+OTHER_WORLD_SLASH_TEXT	/
+OTHER_WORLD_WISP_BOARD_TITLE	Áñéèìüò Íåêñïöëïãşí
+PARTY_MATCH_TEXT_DUNGEON_NAME	Ìğïõíôñïıìé
+PARTY_MATCH_TEXT_DUNGEON_SELECT	Åğßëåîå ìğïõíôñïıìé
+PARTY_MATCH_TEXT_ENTREE_LEVEL	Åğßğåäï: %d
+PARTY_MATCH_TEXT_LEVEL_LIMIT	Ğñïûğüèåóç åğéğİäïõ
+PARTY_MATCH_TEXT_REQUEST_MATCH	ÁíáæŞôçóç
+PARTY_MATCH_TEXT_REQUEST_MATCH_CANCEL	Áêıñùóç
+PARTY_MATCH_TEXT_REQUIRED_ITEMS	Ğñïûğüèåóç áíôéêåéìİíùí
+PARTY_MEMBER_INFO_NAME	¼íïìá ìİëïõò ôçò ÏìÜäáò
+PASSIVE_ATTR_ACTIVATE_BUTTON	Åíåñãïğïßçóç
+PASSIVE_ATTR_UI_ADD_BUTTON	ĞñïóèŞêç
+PASSIVE_ATTR_UI_CHARGE_BUTTON	ÁíáğëŞñùóç
+PASSIVE_ATTR_UI_TITLE	Ìğüíïõò êåéìçëßùí
+PASSWORD_DESC_1	ĞëçêôñïëïãŞóôå ôïí êùäéêü óáò,
+PASSWORD_DESC_2	ãéá íá áíïßîåôå ôçí áğïèŞêç.
+PASSWORD_DESC_3	¢ëëáîåò ôïí êùäéêü óïõ;
+PASSWORD_DESC_4	Áí ü÷é, ï êùäéêüò óïõ åßíáé «000000».
+PASSWORD_DESC_5	¢ëëáîå ôïí êùäéêü óïõ óôçí áğïèŞêç.
+PASSWORD_TITLE	Óõíèçìáôéêü ìíŞìçò
+PET_AGE_TEXT	Çëéêßá êáôïéêéäßïõ
+PET_ATTR_CHANGE_ITEM_TEXT	ÌÜãåìá êáôïéêéäßïõ
+PET_ATTR_CHANGE_TITLE	ÁëëáãŞ åßäïõò êáôïéêéäßïõ
+PET_ATTR_CONFIRMATION	ÁëëáãŞ
+PET_ATTR_DETERMINE_TITLE	Íİï åßäïò êáôïéêéäßïõ
+PET_ATTR_OK	Êëåßóéìï
+PET_CHANGE_TEXT	Êáôïéêßäéï
+PET_FEED_TITLE	ÔÜéóìá
+PET_FEED_TITLE_EVOLVE	Åîİëéîç
+PET_FEED_TITLE_EXP	ÅÌĞ áíôéêåéìİíïõ
+PET_FFED_BUTTON_TEXT	ÔÜéóìá
+PET_HATCHING_BUTTON	Åêêüëáøç
+PET_HATCHING_NIK	¼íïìá êáôïéêéäßïõ
+PET_HATCHING_WINDOW_TITLE	Êïõôß Åğşáóçò
+PET_INFORMATION_ABILITIES	Ìğüíïõò
+PET_INFORMATION_AGE	Çëéêßá
+PET_INFORMATION_COSTUME_BONUS	Ìğüíïõò öïñåóéÜò
+PET_INFORMATION_DEFENCE	¢ìõíá
+PET_INFORMATION_EVOL_BUTTON	Åîİëéîç
+PET_INFORMATION_EXP	Åìğåéñßá
+PET_INFORMATION_EXP_BUTTON	ÅÌĞ áíôéê.
+PET_INFORMATION_HP	HP
+PET_INFORMATION_LEVEL	Åğßğåäï
+PET_INFORMATION_LIFE	ÄéÜñêåéá
+PET_INFORMATION_LIFETIME_BUTTON	ÔÜéóìá
+PET_INFORMATION_LIFE_TIME	¿ñåò
+PET_INFORMATION_SKILL	Éêáíüôçôá
+PET_INFORMATION_SP	SP
+PET_INFORMATION_TITLE	Êáôïéêßäéï
+PET_NAME_CHANGE_BUTTON	ÁëëáãŞ
+PET_NAME_CHANGE_WINDOW_TITLE	ÁëëáãŞ ïíüìáôïò
+PET_POTENTIAL_TITLE	Äõíáìéêü
+PET_REVIVE_BUTTON	ÁíÜíçøç
+PET_REVIVE_CANCEL_BUTTON	Áêıñùóç
+PET_REVIVE_MATERIAL_TITLE	Õëéêü
+PET_REVIVE_REUSLT_TEXT	Áğïôİëåóìá
+PET_REVIVE_TARGET	Êáôïéêßäéï ğñïò áíÜíçøç
+PET_REVIVE_TITLE	ÁíÜíçøç êáôïéêéäßïõ
+PICK_MONEY_TITLE	ÌïéñáóéÜ
+POPUP_NOTICE_BUTTON_TEXT	Áğïóôïëİò êé Üëëá
+PREMIUM_PRIVATE_SHOP	Ğñïóùğéêü ğñïíïìéïı÷ï êáôÜóôçìá
+PREMIUM_PRIVATE_SHOP_ITEM_TAKE_OUT	ĞáñáëáâŞ áíôéêåéìİíïõ
+PREMIUM_PRIVATE_SHOP_MODIFY_BUTTON	Äéá÷åßñéóç
+PREMIUM_PRIVATE_SHOP_NOTICE_MODIFY	Ãßíåôáé äéá÷åßñéóç ôïõ ğñïóùğéêïı êáôáóôŞìáôïò.
+PREMIUM_PRIVATE_SHOP_NOTICE_NONE	Ôï ğñïóùğéêü êáôÜóôçìá äåí åßíáé áíïé÷ôü.
+PREMIUM_PRIVATE_SHOP_NOTICE_NO_TICKET	×ùñßò åéóéôŞñéï
+PREMIUM_PRIVATE_SHOP_NOTICE_OPEN	Ôï ğñïóùğéêü êáôÜóôçìá Üíïéîå.
+PREMIUM_PRIVATE_SHOP_REMAIN_TEXT_ICON	Õğüëïéğïò ÷ñüíïò
+PREMIUM_PRIVATE_SHOP_REOPEN_BUTTON	¢íïéãìá
+PREMIUM_PRIVATE_SHOP_SHOP_CLOSE_BUTTON	Êëåßóéìï êáôáóôŞìáôïò
+PREMIUM_PRIVATE_SHOP_TAX_ADJUSTMENT_BUTTON	ĞáñáëáâŞ
+PREMIUM_PRIVATE_SHOP_TAX_ADJUSTMENT_DIALOG_TITLE	ĞáñáëáâŞ
+PREMIUM_PRIVATE_SHOP_TITLE	Ğñïóùğéêü êáôÜóôçìá
+PREMIUM_PRIVATE_SHOP_WON_ICON	Won ğïõ ìğïñåßò íá êáôáëÜâåéò
+PREMIUM_PRIVATE_SHOP_YANG_ICON	Yang ğïõ ìğïñåßò íá êáôáëÜâåéò
+PRIVATESHOPSEARCH_BUY	ÁãïñÜ
+PRIVATESHOPSEARCH_COUNT	ÔåìÜ÷éá
+PRIVATESHOPSEARCH_ITEMNAME	¼íïìá
+PRIVATESHOPSEARCH_ITEMTYPE	Áíôéêåßìåíá
+PRIVATESHOPSEARCH_JOB	ÊëÜóç
+PRIVATESHOPSEARCH_LEVEL	Åğßğåäï
+PRIVATESHOPSEARCH_PRICE	ÔéìŞ
+PRIVATESHOPSEARCH_REFINE	Åğßğåäï áíôéêåéìİíïõ
+PRIVATESHOPSEARCH_SEARCH	ÁíáæŞôçóç
+PRIVATESHOPSEARCH_SEARCH_BAR	ÁíáæŞôçóç
+PRIVATESHOPSEARCH_SELECT	ÅğéëïãŞ
+PRIVATESHOPSEARCH_SELLER	ĞùëçôŞò
+PRIVATESHOPSEARCH_SORT	Ôáîéíüìçóç
+PRIVATE_SHOP_CLOSE_BUTTON	Êëåßóéìï êáôáóôŞìáôïò
+PRIVATE_SHOP_MAP_EXIT_BUTTON	¸îïäïò
+PRIVATE_SHOP_NAME	¼íïìá ÊáôáóôŞìáôïò
+PRIVATE_SHOP_SEARCH_BY_VNUM_BOARD_TITLE	¼ëá ôá áğïôåëİóìáôá
+PRIVATE_SHOP_SEARCH_BY_VNUM_CANCEL_BUTTON_TEXT	Áêıñùóç
+PRIVATE_SHOP_SEARCH_BY_VNUM_SEARCH_BUTTON_TEXT	ÁíáæŞôçóç
+PRIVATE_SHOP_TITLE	¢íïéîå Éäéùôéêü ÊáôÜóôçìá
+QUEST_UI_TEXT_COLLECTION	Áğïóôïëİò âéïëüãïõ
+QUEST_UI_TEXT_DAILY	ÊáèçìåñéíŞ áğïóôïëŞ
+QUEST_UI_TEXT_EVENT	Áğïóôïëİò event
+QUEST_UI_TEXT_LEVELUP	ÁğïóôïëŞ êõíçãéïı
+QUEST_UI_TEXT_MAIN	Êıñéåò áğïóôïëİò
+QUEST_UI_TEXT_SCROLL	Áğïóôïëİò âéâëßïõ áğïóôïëşí
+QUEST_UI_TEXT_SUB	Äåõôåñåıïõóåò áğïóôïëİò
+QUEST_UI_TEXT_SYSTEM	Áğïóôïëİò ğáé÷íéäéïı
+RAMADAN_EVENT_TITL	Event Ñáìáæáíéïı
+REFINE_COST	Êüóôïò âåëôßùóçò: 0 Yang
+REFINE_ELEMENT_CHANGE_COST_TITLE	Êüóôïò
+REFINE_ELEMENT_CHANGE_DARK	ÓêïôÜäé
+REFINE_ELEMENT_CHANGE_EARTH	Ãç
+REFINE_ELEMENT_CHANGE_ELECT	ÁóôñáğŞ
+REFINE_ELEMENT_CHANGE_FIRE	ÖùôéÜ
+REFINE_ELEMENT_CHANGE_ICE	ĞÜãïò
+REFINE_ELEMENT_CHANGE_TITLE	ÁëëáãŞ óôïé÷åßïõ
+REFINE_ELEMENT_CHANGE_WIND	¢íåìïò
+REFINE_ELEMENT_DOWNGRADE_TITLE	ÕğïâÜèìéóç
+REFINE_ELEMENT_UPGRADE_TITLE	Âåëôßùóç
+REFINE_INFO	Ğéèáíüôçôá åğéôõ÷ïıò âåëôßùóçò: 100%
+REFINE_MONEY	Êüóôïò åîåõãåíéóìïı
+REFINE_SELECT	Åîåõãåíéóìüò
+REFINE_TTILE	Âåëôéşóåéò
+REPORT_VIOLENT_WHISPER	
+RESTART_GIVEUP	ĞáñÜôçóå ôá.
+RESTART_HERE	Åğáíåêêßíçóç åäş
+RESTART_IMMEDIATE	Ìåôåìøı÷ùóç
+RESTART_TOWN	Åğáíåêêßíçóç óôçí Ğüëç
+ROULETTE_SPECIAL_TITLE	Áíôáìïéâİò (%s)
+ROULETTE_SPIN_TEXT1	ÃÕÑÉÓÌÁ
+ROULETTE_SPIN_TEXT2	50 øõ÷İò
+ROULETTE_SPIN_TEXT3	250.000 Yang
+ROULETTE_TITLE	Áíôáìïéâİò
+SAFE_CHANGE_PASSWORD	ÁëëáãŞ Óõíèçìáôéêïı
+SAFE_TITLE	ÁğïèŞêç
+SELECT_ATTR_CHANGED	Íİï
+SELECT_ATTR_CURRENT	Ğáëéü
+SELECT_ATTR_SELECT	ÅğéëïãŞ
+SELECT_ATTR_TITLE	ÌÜãåìá Áíôéêåéìİíïõ+
+SELECT_ATT_GRADE	STR
+SELECT_BOX_CANCEL	Áğüññéøç
+SELECT_BOX_LIST	Áíôáìïéâİò
+SELECT_BOX_NOTTHING_USABLE_ITEM	Äåí âñİèçêå áíôéêåßìåíï ãéá óİíá. \n\nÁöáßñåóå İíá ößëôñï.
+SELECT_BOX_QUESTION_RECV_ITEM_1	Åğéëåãìİíï áíôéêåßìåíï
+SELECT_BOX_QUESTION_RECV_ITEM_2	%s\n\n %d
+SELECT_BOX_QUESTION_RECV_ITEM_3	Èİëåéò íá áğïêôŞóåéò ôï áíôéêåßìåíï;
+SELECT_BOX_RECEIVE	Áğïäï÷Ş
+SELECT_BOX_SELECTED_ITEM_TEXT_1	Ğáñáêáëïıìå åğßëåîå İíá áíôéêåßìåíï\n
+áğü ôçí ëßóôá.
+SELECT_BOX_SELECTED_ITEM_TEXT_2	%s, %d
+SELECT_BOX_SELECTED_REWARD	Åğéëåãìİíç áíôáìïéâŞ
+SELECT_BOX_TITLE	ÅğéëïãŞ ÁíôáìïéâŞò
+SELECT_BOX_TOOLTIP_ONLY_USABLE_ITEM	ÂÜëå ößëôñá üğùò ôï öıëï ôïõ ÷áñáêôŞñá, ôçí êëÜóç êáé ôï åğÜããåëìá, ãéá íá äåéò ìüíï ôá êáôÜëëçëá áíôéêåßìåíá.
+SELECT_BOX_TOOLTIP_REWIND_BUTTON	Ãıñíá ğßóù óôç óåëßäá ìå ôï åğéëåãìİíï áíôéêåßìåíï.
+SELECT_CREATE	Äçìéïõñãßá
+SELECT_DELETE	ÄéáãñáöŞ
+SELECT_DEX_GRADE	DEX
+SELECT_EMPIRE_NAME	¼íïìá Âáóéëåßïõ
+SELECT_EXIT	Êëåßóéìï
+SELECT_HP	VIT
+SELECT_LEVEL	Åğßğåäï
+SELECT_METIN_STONE_TITLE	ÅğéëïãŞ Ëßèïõ Ğíåıìáôïò
+SELECT_NAME	¼íïìá
+SELECT_NO_GUILD	×ùñßò Óõíôå÷íßá
+SELECT_ORIGIN_STAT	Óçìåßï åêêßíçóçò
+SELECT_PLAYTIME	×ñüíïò ğáé÷íéäéïı
+SELECT_SELECT	Áñ÷Ş
+SELECT_SP	SP
+SELECT_SUNGMA_STAT	Èİëçóç SungMa
+SELECT_TITLE	ÅğéëïãŞ Ôßôëïõ
+SHOP_BUY	ÁãïñÜ
+SHOP_REPURCHASE_BUTTON	ÁãïñÜ îáíÜ
+SHOP_REPURCHASE_TITLE	ÅğáíáãïñÜ
+SHOP_SELL	Ğşëçóç
+SHOP_TITLE	ÊáôÜóôçìá
+SKILL_SUPPORT_TITLE	Âáóéêİò Éêáíüôçôåò
+SLOT_CHAR_ENLARGE_KEY	ĞëŞêôñï
+SLOT_CHAR_ENLARGE_KEYCHANGE	Ìåãİèõíóç êåéìİíïõ
+SLOT_CHAR_ENLARGE_OFF	OFF
+SLOT_CHAR_ENLARGE_ON	ON
+SLOT_CHAR_ENLARGE_TITLE	Ìåãİèõíóç êåéìİíïõ
+SLOT_CHAR_ENLARGE_TOOLTIP_KEY	×ñçóéìïğïßçóå Ctrl, ãéá íá ìåãåèıíåéò ôï êåßìåíï.
+SLOT_CHAR_ENLARGE_TOOLTIP_OFF	Íá ìç ìåãåèıíåôáé ğïôİ ôï êåßìåíï
+SLOT_CHAR_ENLARGE_TOOLTIP_ON	Íá ìåãåèıíåôáé ğÜíôá ôï êåßìåíï
+SNOWFLAKE_STICK_EVENT_EXCHANGE_BUTTON_TEXT	ÁíôáëëáãŞ
+SNOWFLAKE_STICK_EVENT_EXCHANGE_PAGE_SUBTITLE_1	ÁíôáëëáãŞ ìå 1 ìáãéêü ñáâäß ×éïíïíéöÜäáò
+SNOWFLAKE_STICK_EVENT_EXCHANGE_PAGE_SUBTITLE_2	Ìğïñåßò íá áíôáëëÜîåéò 3x êáôÜ ôç äéÜñêåéá ôïõ event.
+SNOWFLAKE_STICK_EVENT_EXCHANGE_REWARD_BUTTON_TEXT	Áíôáìïéâİò
+SNOWFLAKE_STICK_EVENT_TITLE	Event ×éïíïíéöÜäáò
+SNOWFLAKE_STICK_EVENT_TOOLTIP_HELP_BUTTON_1	Ìğïñåßò íá áíôáëëÜîåéò 5x ìİóá óå 24 şñåò. Õğüëïéğïò ÷ñüíïò ìİ÷ñé ôïí ìçäåíéóìü:
+SNOWFLAKE_STICK_EVENT_TOOLTIP_HELP_BUTTON_2	Ìğïñåßò íá áíôáëëÜîåéò 5x ìİóá óå 24 şñåò. Õğüëïéğïò ÷ñüíïò ìİ÷ñé ôïí ìçäåíéóìü: -
+SNOWFLAKE_STICK_EVENT_TOOLTIP_RIGHT_ARROW	ÌÜæåøå 12 ×éïíüìğáëåò êáé 12 ÊëáäéÜ ×éïíÜíèñùğïõ êé áíôÜëëáîİ ôá ìå İíá ìáãéêü ñáâäß ×éïíïíéöÜäáò.
+SNOWFLAKE_STICK_EVENT_TOOLTIP_RIGHT_ARROW_MOUNT	Ìğïñåß íá áíôáëëá÷èåß ìå 15 ìáãéêÜ ñáâäéÜ ×éïíïíéöÜäáò.
+SNOWFLAKE_STICK_EVENT_TOOLTIP_RIGHT_ARROW_PET	Ìğïñåß íá áíôáëëá÷èåß ìå 15 ìáãéêÜ ñáâäéÜ ×éïíïíéöÜäáò.
+SNOWFLAKE_STICK_EVENT_TOOLTIP_SNOW_BALL	Ìğïñåßò íá áğïêôŞóåéò ÷éïíüìğáëåò íéêşíôáò ôİñáôá, üóï åßíáé åíåñãŞ ç ìáãåßá ×éïíïíéöÜäáò.
+SNOWFLAKE_STICK_EVENT_TOOLTIP_TITLE_SNOW_BALL	×éïíüìğáëá
+SNOWFLAKE_STICK_EVENT_TOOLTIP_TITLE_TREE_BRANCH	Êëáäß ×éïíÜíèñùğïõ
+SNOWFLAKE_STICK_EVENT_TOOLTIP_TREE_BRANCH	Ìğïñåßò íá áïêôŞóåéò ÊëáäéÜ ×éïíÜíèñùğïõ íéêşíôáò ôİñáôá, üóï åßíáé åíåñãŞ ç Ìáãåßá ×éïíïíéöÜäáò.
+STEP	Âáèìüò êáèáñüôçôáò
+STEP_SELECT	Âáèìüò êáèáñüôçôáò
+STRENGTH	Åíßó÷õóç
+STRENGTH_SELECT	Åğßğåäï
+STRUCTURE_VIEW_MODE	Äéáêüóìçóç
+STRUCTURE_VIEW_TYPE_STRUCTURE	Áğüêñõøç äéáêüóìçóçò
+SUNGHAHEE_TOWER_CLEAR	Ôá êáôÜöåñåò
+SUNGMAHEE_GATE_ACHIEV_COUNT	Áñéèìüò Ôñïğáßùí
+SUNGMAHEE_GATE_ACHIEV_TOOLTIP_GET_REWARD	Áğİêôçóåò áíôáìïéâŞ
+SUNGMAHEE_GATE_ACHIEV_TOOLTIP_REWARD_LIST	Ëßóôá áíôáìïéâşí
+SUNGMAHEE_GATE_TITLE	Ğıëç ÅéóâïëŞò SungMa
+SUNGMAHEE_GATE_TITLE_ACHIEV	Ôñüğáéá
+SUNGMAHEE_GATE_TITLE_REWARD	ÁíôáìïéâŞ Ôñïğáßùí
+SUNGMAHEE_TOWER_DUNGEON_ENTER_QUESTION	Èİëåéò íá ìğåéò óôï åğßğåäï %d;
+SUNGMAHEE_TOWER_DUNGEON_EXIT_QUESTION	Èİëåéò íá äéáêüøåéò ôçí ğñüêëçóç;
+SUNGMAHEE_TOWER_ELEMENT_ALL	¼ëá
+SUNGMAHEE_TOWER_ELEMENT_DARK	ÓêïôÜäé
+SUNGMAHEE_TOWER_ELEMENT_EARTH	Ãç
+SUNGMAHEE_TOWER_ELEMENT_ELEC	ÁóôñáğŞ
+SUNGMAHEE_TOWER_ELEMENT_FIRE	ÖùôéÜ
+SUNGMAHEE_TOWER_ELEMENT_ICE	ĞÜãïò
+SUNGMAHEE_TOWER_ELEMENT_TITLE	Óôïé÷åßá óôï Åğßğåäï
+SUNGMAHEE_TOWER_ELEMENT_WIND	¢íåìïò
+SUNGMAHEE_TOWER_ENTER_BUTTON	Åßóïäïò
+SUNGMAHEE_TOWER_ENTER_TITLE	Ğıñãïò Êüëáóçò Sung Mahi
+SUNGMAHEE_TOWER_EXIT_BUTTON	¸îïäïò
+SUNGMAHEE_TOWER_INFO_BOARD_FLOOR	E%d
+SUNGMAHEE_TOWER_MISSION_TYPE_ALL_KILL_MOB_PAUSE_SPECIAL	Íßêçóå üëá ôá ôİñáôá êáé ôïõò Äáéìïíéêïıò Ëßèïõò!
+SUNGMAHEE_TOWER_MISSION_TYPE_BOSS	Íßêçóå üëá ôá ôİñáôá!
+SUNGMAHEE_TOWER_MISSION_TYPE_CHESS_FAIL	Íßêçóå üëá ôá ôİñáôá!
+SUNGMAHEE_TOWER_MISSION_TYPE_COMPLETE	ÁğïóôïëŞ åîåôåëİóèç
+SUNGMAHEE_TOWER_MISSION_TYPE_CORRECT_ITEM_USE	Âñåò ôï êëåéäß êáé îİöõãå!
+SUNGMAHEE_TOWER_MISSION_TYPE_DEBUFF_RELEASE	Íßêçóå üëá ôá ôİñáôá!
+SUNGMAHEE_TOWER_MISSION_TYPE_FINDING_RIGHT_MATCH_METIN_STONE	ÊáôÜóôñåøå ôï êáôáñáìİíï Metin!
+SUNGMAHEE_TOWER_MISSION_TYPE_FINDING_RIGHT_MATCH_METIN_STONE_FAIL	Íßêçóå üëá ôá ôİñáôá!
+SUNGMAHEE_TOWER_MISSION_TYPE_MONSTER_CHESS	Óêüôùóå İíá æåõãÜñé ôåñÜôùí ğïõ äåí ôáéñéÜæåé!
+SUNGMAHEE_TOWER_MISSION_TYPE_NORMAL	Íßêçóå üëá ôá ôİñáôá!
+SUNGMAHEE_TOWER_MISSION_TYPE_SEAL_RELEASE	ÓğÜóå ôç óöñáãßäá ìå ôïí Ëßèï óöñáãßäáò!
+SUNGMAHEE_TOWER_MISSION_TYPE_STAIRS	Áíİâá ôá óêáëéÜ óôï åğüìåíï åğßğåäï!
+SUNGMAHEE_TOWER_MISSION_TYPE_SURVIVE	Îİöõãå áğü üëåò ôéò åğéèİóåéò!
+SUNGMAHEE_TOWER_MY_RANK_TITLE	ÊáôÜôáîç
+SUNGMAHEE_TOWER_REWARD_INFO_TITLE	Áíôáìïéâİò
+SYSTEMOPTION_TITLE	Åğéëïãİò ÓõóôŞìáôïò
+SYSTEM_CANNOT_CONTROL_AND_ESCAPTE	Áğåëåõèİñùóç
+SYSTEM_CHANGE	ÁëëáãŞ ×áñáêôŞñá
+SYSTEM_EXIT	¸îïäïò áğü Ğáé÷íßäé
+SYSTEM_HELP	ÂïŞèåéá
+SYSTEM_LOGOUT	Áğïóıíäåóç
+SYSTEM_MALL	Item Shop
+SYSTEM_MOVE_CHANNEL	ÁëëáãŞ êáíáëéïı
+SYSTEM_OPTION	Åğéëïãİò ÓõóôŞìáôïò
+TASKBAR_CHARACTER	×áñáêôŞñáò
+TASKBAR_CHAT	ĞáñÜèõñï Chat [Enter]
+TASKBAR_COMMUNITY	Êïéíüôçôá
+TASKBAR_DISABLE	Áğåíåñãïğïéçìİíï
+TASKBAR_DRAGON_SOUL	Áë÷çìåßá Äñáêüëéèùí
+TASKBAR_EXPAND	Ìåãİèõíóç ğáñáèıñïõ
+TASKBAR_INVENTORY	ÊáôÜëïãïò
+TASKBAR_MESSENGER	Ößëïé [Alt+M]
+TASKBAR_MONEY_EXPAND	Ğåñéïõóßá
+TASKBAR_NEXT_QUICKSLOT	Åğüìåíï Ğåäßï ÃñŞãïñçò Ğñüóâáóçò [Shift+Number, Alt]
+TASKBAR_PET_INFO	Óôïé÷åßá êáôïéêéäßïõ
+TASKBAR_PREV_QUICKSLOT	Ğñïçãïıìåíï Quickslot
+TASKBAR_SYSTEM	Åğéëïãİò[ESC]
+TITLE_SYSTEM_UI_BUTTON_APPLY	Åîïğëéóìüò Ôßôëïõ
+TITLE_SYSTEM_UI_BUTTON_CLEAR	Áöáßñåóç
+TITLE_SYSTEM_UI_CURRENT_TITLE	Åîïğëéóìİíïò ôßôëïò
+TITLE_SYSTEM_UI_TITLE_LIST	¼ëïé ïé Ôßôëïé
+TITLE_SYSTEM_UI_WINDOW_NAME	Ôßôëïò
+TOTAL_RANKING	ÓõíïëéêŞ ëßóôá êáôÜôáîçò
+TREASURE_HUNT_EVENT_ACCUMULATE_COUNT	Ãıñïò
+TREASURE_HUNT_EVENT_GOLD	Äïõâëüíéá ğïõ áğİêôçóåò
+TREASURE_HUNT_EVENT_RANKING_COUNT	Ãıñïò
+TREASURE_HUNT_EVENT_RANKING_NAME	¼íïìá
+TREASURE_HUNT_EVENT_RANKING_RANK	ÊáôÜôáîç
+TREASURE_HUNT_EVENT_RANKING_TITLE	Ëßóôá êáôÜôáîçò Êõíçãéïı èçóáõñïı
+TREASURE_HUNT_EVENT_REWARD_LIST	Áíôáìïéâİò
+TREASURE_HUNT_EVENT_REWARD_LIST_ACCUMULATE_COUNT	Ãıñïé
+TREASURE_HUNT_EVENT_REWARD_LIST_TITLE	Áíôáìïéâİò ãıñùí
+TREASURE_HUNT_EVENT_TITLE	ÊõíŞãé èçóáõñïı
+USER_REPORT_SYSTEM_UI_CHARACTER_NAME	¼íïìá ×áñáêôŞñá
+USER_REPORT_SYSTEM_UI_CLOSE_BUTTON	Êëåßóéìï
+USER_REPORT_SYSTEM_UI_SELECT_REASON	Áéôßá áíáöïñÜò
+USER_REPORT_SYSTEM_UI_SEND_BUTTON	ÁğïóôïëŞ
+USER_REPORT_SYSTEM_UI_TARGET_CHECK	×áñáêôŞñáò
+USER_REPORT_SYSTEM_UI_WINDOW_NAME	ÁíáöïñÜ
+VALENTINE_DAY_EVENT_CURRENT_COUNT	Äéáèİóéìç Ğïóüôçôá
+VALENTINE_DAY_EVENT_MAX_COUNT	Ìİãéóôç Ğïóüôçôá
+VALENTINE_DAY_EVENT_TITLE	Åğéóêüğçóç event Áãßïõ Âáëåíôßíïõ
+VALENTINE_DAY_EVENT_USE_BUTTON	Åîáñãıñùóç
+VALENTINE_DAY_EVENT_WRAP_BUTTON	Ôıëéãìá
+WARP_MI_LABEL	Óôïí Âùìü ğïõ äİ÷åôáé åğßèåóç
+WEEKLY_RANKING	Åâäïìáäéáßá ëßóôá êáôÜôáîçò
+WHISPER_BAN	Öñáãìüò
+WHISPER_NAME	Øßèõñïò
+WHISPER_REPORT	
+WHISPER_SEND	ÁğïóôïëŞ
+WORLD_BOSS_BREAK_TIME_TEXT	×ñüíïò çñåìßáò
+WORLD_BOSS_MIN_DAMAGE_TEXT	Áğáéô. ÅëÜ÷éóôç æçìéÜ
+WORLD_BOSS_RANK	Èİóç áñ÷çãïı êüóìïõ
+WORLD_BOSS_RANKING_BUTTON	Ëßóôá êáôÜôáîçò
+WORLD_BOSS_RANK_EMPIRE	Âáóßëåéï
+WORLD_BOSS_RANK_GUILD_NAME	Óõíôå÷íßá
+WORLD_BOSS_RANK_NAME	¼íïìá
+WORLD_BOSS_RANK_RANK	ÊáôÜôáîç
+WORLD_BOSS_RANK_TIER	Åğßğåäï ëåßáò
+WORLD_BOSS_RUN_TIME_TEXT	×ñüíïò ìÜ÷çò
+WORLD_BOSS_TITLE	Íßêçóåò ôïí áñ÷çãü ôïõ êüóìïõ
+WORLD_BOSS_TOTAL_DAMAGE_TEXT	ÓõíïëéêŞ æçìéÜ
+WORLD_BUSS_REWARD_BUTTON	ĞáñáëáâŞ áíôáìïéâŞò
+YES	Íáé
+ZONE_MAP	ÌåãÜëïò ×Üñôçò

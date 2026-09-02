@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Deja deşii acest titlu.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Titlu deblocat: %s. Vizualizeazã titlul în meniul de titluri.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	%s echipat.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	Ai primit %s.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	Titlul %s expirã în 1 orã.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s a expirat.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Te rugãm, încearcã mai târziu.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Ai dezechipat titlul.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Acest titlu nu este încã disponibil sau durata sa a expirat.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Nu poşi obşine acest titlu cu acest certificat. Te rugãm sã verifici tabelul.
+TITLE_SYSTEM_OPEN_TITLE_UI	Deschide meniul de titluri
+TITLE_SYSTEM_TEXT_TITLE	Titlu
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Afiºeazã titlul echipat
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Cerinşe: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Timp rãmas:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Timp rãmas: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Permanent
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Duratã Titlu:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Poate fi folosit permanent.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Acest obiect nu poate fi folosit dupã ce a expirat.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Vrei sã revendici certificatul?

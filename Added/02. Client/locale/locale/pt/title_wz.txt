@@ -1,0 +1,6 @@
+1	2000	0	Único Sobrevivente	Alcança o 1.º lugar na Battle Royale.	Dá-te acesso ao título: Único Sobrevivente	0	0	10800	1
+2	2001	0	Invicto	Alcança o 1.º lugar nas classificações semanais da Zona de Combate.	Dá-te acesso ao título: Invicto	0	0	604800	1
+3	2002	0	Portador da Guerra	Alcança o 2.º lugar nas classificações semanais da Zona de Combate.	Dá-te acesso ao título: Portador da Guerra	0	0	604800	1
+4	2003	0	Massacrador	Alcança o 3.º lugar nas classificações semanais da Zona de Combate.	Dá-te acesso ao título: Massacrador	0	0	604800	1
+6	3005	0	Conquistador/a Flamejante	Obtém 1.º lugar nas classificações semanais do Covil de Meley (Guild).	Desbloqueia imediatamente este título para a tua personagem.	0	0	604800	1
+7	3006	0	Árbitro/a do Ártico	Obtém 1.º lugar nas classificações semanais da Cripta de Balathor (Guild).	Desbloqueia imediatamente este título para a tua personagem.	0	0	604800	1

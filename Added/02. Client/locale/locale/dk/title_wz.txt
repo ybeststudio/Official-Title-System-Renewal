@@ -1,0 +1,6 @@
+1	2000	0	Sidste Overlevende	Optjen 1. pladsen i Battle Royale.	Giver dig følgende titel: Sidste Overlevende	0	0	10800	1
+2	2001	0	Ubesejret	Optjen 1. pladsen i de ugelige Kamp Zone ranglister.	Giver dig følgende titel: Ubesejret	0	0	604800	1
+3	2002	0	Krigsbringer	Optjen 2. pladsen i de ugelige Kamp Zone ranglister.	Giver dig følgende titel: Krigsbringer	0	0	604800	1
+4	2003	0	Slagter	Optjen 3. pladsen i de ugelige Kamp Zone ranglister.	Giver dig følgende titel: Slagter	0	0	604800	1
+6	3005	0	Flammende Sejrherre	Optjen 1. pladsen i den ugelige rangliste for Meleys Grotte (Orden).	Låser op for denne titel med det samme til din karakter.	0	0	604800	1
+7	3006	0	Arktisk Dommer	Optjen 1. pladsen i den ugelige rangliste for Balathor's Krypt (Orden).	Låser op for denne titel med det samme til din karakter.	0	0	604800	1

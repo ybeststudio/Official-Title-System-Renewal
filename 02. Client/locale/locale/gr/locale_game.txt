@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	¸÷åéò Şäç áõôüí ôïí Ôßôëï.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Îåêëåéäşèçêå ôßôëïò: %s Äåò ôïí Ôßôëï óôï Ìåíïı Ôßôëùí.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	Åîïğëßóôçêå ôï %s.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	Ğáñİëáâåò %s.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	Ï õğüëïéğç äéÜñêåéá ôïõ Ôßôëïõ «%s» åßíáé 1 şñá.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s: ¸ëçîå.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Ğáñáêáëïıìå äïêßìáóå îáíÜ áñãüôåñá.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Áöáßñåóåò ôïí åîïğëéóìİíï Ôßôëï óïõ.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Áõôüò ï Ôßôëïò äåí åßíáé áêüìç äéáèİóéìïò Ş ç äéÜñêåéá İëçîå.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Äåí ìğïñåßò íá áğïêôŞóåéò áõôüí ôïí Ôßôëï ìå áõôü ôï Ğéóôïğïéçôéêü. Ğáñáêáëïıìå äåò ôïí Ğßíáêá.
+TITLE_SYSTEM_OPEN_TITLE_UI	¢íïéãìá Ìåíïı Ôßôëùí
+TITLE_SYSTEM_TEXT_TITLE	Ôßôëïò
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	ĞñïâïëŞ Åîïğëéóìİíïõ ôßôëïõ
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Ğñïûğüèåóç: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Õğüëïéğïò ÷ñüíïò:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Õğüëïéğïò ÷ñüíïò: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Ìüíéìïò
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	ÄéÜñêåéá Ôßôëïõ:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Ìğïñåß íá ÷ñçóéìïğïéçèåß ìüíéìá.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Áõôü ôï áíôéêåßìåíï äåí ìğïñåß íá ÷ñçóéìïğïéçèåß ìåôÜ ôç ëŞîç ôçò äéÜñêåéÜò ôïõ.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Èİëåéò íá åîáñãõñşóåéò ôï Ğéóôïğïéçôéêü;

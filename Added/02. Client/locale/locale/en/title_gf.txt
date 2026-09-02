@@ -1,0 +1,13 @@
+1000	1005	0	Lucky	Win in the monthly Metin+ Raffle.	Immediately unlocks this title for your character.	2025-08-08 10:00	0
+1001	3000	0	Metin+	Have an active Metin+ membership.	Immediately unlocks this title for your character. The duration of the title is automatically adjusted to match the status of your Metin+ membership.	2025-08-08 10:00	0
+1002	1003	0	Heroic	Have the Heroic or higher rank in your Metin+ membership.	Immediately unlocks this title for your character. The duration of the title is automatically adjusted to match the status of your Metin+ membership.	2025-08-08 10:00	0
+1003	1003	0	Legendary	Have the Legendary or higher rank in your Metin+ membership.	Immediately unlocks this title for your character. The duration of the title is automatically adjusted to match the status of your Metin+ membership.	2025-08-08 10:00	0
+1004	1003	0	Mythic	Have the Mythic rank in your Metin+ membership.	Immediately unlocks this title for your character. The duration of the title is automatically adjusted to match the status of your Metin+ membership.	2025-08-08 10:00	0
+1005	1000	0	Sun Worshipper	Can be won during the Summer Tombola 2025.	Immediately unlocks this title for your character.	2025-08-01 00:00	0
+1006	1002	0	North Star	Can be won during the Winter Tombola 2025.	Immediately unlocks this title for your character.	2025-12-25 00:00	0
+1007	1003	0	Nyx Champion	Transfer a character with a character transfer level I or higher from the 2025 Yohara Boost server Nyx.	Immediately unlocks this title for your character.	2026-02-04 10:00	0
+1008	1003	0	Chione Champion	Transfer a character with a character transfer level I or higher from the 2025 Yohara Boost server Chione.	Immediately unlocks this title for your character.	2026-02-04 10:00	0
+1009	1003	0	Lodos Champion	Transfer a character with a character transfer level I or higher from the 2025 Yohara Boost server Lodos.	Immediately unlocks this title for your character.	2026-02-04 10:00	0
+1010	1003	0	Firtina Champion	Transfer a character with a character transfer level I or higher from the 2025 Yohara Boost server Firtina.	Immediately unlocks this title for your character.	2026-02-04 10:00	0
+1011	1001	0	Okey Grandmaster	Earn 500 or more points in a game of okey on the TREASURE server.	Immediately unlocks this title for your character.	2026-04-01 00:00	0
+1012	1004	0	Coin Hunter	Collect a total of 10,000 Doubloons on the TREASURE server.	Immediately unlocks this title for your character.	2026-04-01 00:00	0

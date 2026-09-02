@@ -1,0 +1,22 @@
+# Add these keys to locale_game.txt (do not overwrite the whole file):
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Tento titul ji má.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Titul odemèen: %s. Zobrazit titul v nabídce titulù.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	Pouito: %s.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	Obdreno: %s.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	Titul %s vyprí za 1 hodinu.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s vyprel.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Zkus to prosím znovu pozdìji.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Odebral jsi titul.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Titul není jetì dostupný, nebo vyprela jeho platnost.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	S tímto certifikátem nemùe titul získat. Koukni se do tabulky.
+TITLE_SYSTEM_OPEN_TITLE_UI	Otevøít nabídku titulù
+TITLE_SYSTEM_TEXT_TITLE	Titul
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Zobrazit pouívaný titul
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Poadavky: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Zbývající èas:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Zbývající èas: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Trvalý
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Doba trvání titulu:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Lze pouít trvale.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Tento pøedmìt nelze pouít po vyprení platnosti.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Chce pouít certifikát?

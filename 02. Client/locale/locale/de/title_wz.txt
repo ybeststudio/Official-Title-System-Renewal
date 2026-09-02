@@ -1,0 +1,6 @@
+1	2000	0	Letzter Überlebender	Erreiche den 1. Platz im Battle Royale.	Verleiht den folgenden Titel: Letzter Überlebender	0	0	10800	1
+2	2001	0	Unbezwungener	Erreiche den 1. Platz in der Rangliste der Kampfzone.	Verleiht den folgenden Titel: Unbezwungener	0	0	604800	1
+3	2002	0	Kriegsbringer	Erreiche den 2. Platz in der Rangliste der Kampfzone.	Verleiht den folgenden Titel: Kriegsbringer	0	0	604800	1
+4	2003	0	Schlächter	Erreiche den 3. Platz in der Rangliste der Kampfzone.	Verleiht den folgenden Titel: Schlächter	0	0	604800	1
+6	3005	0	Flammender Bezwinger	Erreiche den 1. Platz in der wöchentlichen Rangliste für Meleys Hort (Gilde).	Schaltet diesen Titel sofort für deinen Charakter frei.	0	0	604800	1
+7	3006	0	Eiskalter Richter	Erreiche den 1. Platz in der wöchentlichen Rangliste für Balathors Krypta (Gilde).	Schaltet diesen Titel sofort für deinen Charakter frei.	0	0	604800	1

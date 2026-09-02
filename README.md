@@ -494,9 +494,9 @@ Hazırlayan marka: **Best Studio**
 - GitHub: [github.com/ybeststudio](https://github.com/ybeststudio)
 - Discord Server: [discord.gg/NXmc6JrwYr](https://discord.gg/NXmc6JrwYr)
 - Discord ID: `beststudio`
-- Web: [bestpro.dev](https://bestpro.dev)
+- Web: [beststudio.dev](https://www.beststudio.dev/)
 - TurkMMO Forum: [Best Studio](https://forum.turkmmo.com/uye/2104546-best-studio/)
-- YouTube: [@ybeststudio](https://www.youtube.com/@ybeststudiotr)
+- YouTube: [@ybeststudio](https://www.youtube.com/@beststudiostr)
 - Instagram: [@ybeststudio](https://www.instagram.com/ybeststudio)
 - Facebook: [ybeststudio](https://www.facebook.com/ybeststudio/)
 - Twitter: [@ybeststudio](https://twitter.com/ybeststudio)
